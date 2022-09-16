@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 16 2022 14:02:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 16 2022 15:25:30 GMT+0800 (China Standard Time) -->
 
 1. [严禁以信息化为名强制学生买平板](https://www.zhihu.com/search?q=严禁以信息化为名强制学生买平板)
 1. [网传教工剪破多名儿童上颚](https://www.zhihu.com/search?q=网传教工剪破多名儿童上颚)
