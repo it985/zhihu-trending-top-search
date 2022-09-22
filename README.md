@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 22 2022 22:23:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 22 2022 23:16:48 GMT+0800 (China Standard Time) -->
 
 1. [守望先锋将停服](https://www.zhihu.com/search?q=守望先锋将停服)
 1. [海贼王 1061 话情报](https://www.zhihu.com/search?q=海贼王 1061 话情报)
