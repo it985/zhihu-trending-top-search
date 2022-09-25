@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 25 2022 13:35:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 25 2022 14:21:42 GMT+0800 (China Standard Time) -->
 
 1. [我们的歌三代同台](https://www.zhihu.com/search?q=我们的歌三代同台)
 1. [广东一在建高架垮塌钢箱梁垮塌](https://www.zhihu.com/search?q=广东一在建高架垮塌钢箱梁垮塌)
