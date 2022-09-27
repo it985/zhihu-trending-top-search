@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 27 2022 17:25:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 27 2022 18:19:17 GMT+0800 (China Standard Time) -->
 
 1. [动画诛仙更新](https://www.zhihu.com/search?q=动画诛仙更新)
 1. [工人往黄豆酱里大小便系造谣](https://www.zhihu.com/search?q=工人往黄豆酱里大小便系造谣)
