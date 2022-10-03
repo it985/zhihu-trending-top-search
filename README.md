@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 03 2022 18:18:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 03 2022 19:14:34 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔生理学或医学奖公布](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖公布)
 1. [约 3 亿年后太平洋将消失](https://www.zhihu.com/search?q=约 3 亿年后太平洋将消失)
