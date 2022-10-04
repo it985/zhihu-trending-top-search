@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 04 2022 13:42:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 04 2022 14:28:34 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔生理学或医学奖公布](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖公布)
 1. [英国放弃激进减税方案](https://www.zhihu.com/search?q=英国放弃激进减税方案)
