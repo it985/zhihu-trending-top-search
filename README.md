@@ -7,9 +7,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 06 2022 19:15:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 06 2022 20:34:53 GMT+0800 (China Standard Time) -->
 
-1. [俄气将恢复对意大利供气](https://www.zhihu.com/search?q=俄气将恢复对意大利供气)
 1. [教育部鼓励高校加强恋爱心理教育](https://www.zhihu.com/search?q=教育部鼓励高校加强恋爱心理教育)
 1. [大妈打天价防癌针被骗 21 万](https://www.zhihu.com/search?q=大妈打天价防癌针被骗 21 万)
 1. [美「里根号」罕见紧急掉头](https://www.zhihu.com/search?q=美「里根号」罕见紧急掉头)
@@ -19,6 +18,7 @@
 1. [妻子怀孕丈夫一直孕吐](https://www.zhihu.com/search?q=妻子怀孕丈夫一直孕吐)
 1. [美俄重启「红色电话」](https://www.zhihu.com/search?q=美俄重启「红色电话」)
 1. [诺贝尔文学奖公布](https://www.zhihu.com/search?q=诺贝尔文学奖公布)
+1. [俄气将恢复对意大利供气](https://www.zhihu.com/search?q=俄气将恢复对意大利供气)
 1. [诺贝尔化学奖公布](https://www.zhihu.com/search?q=诺贝尔化学奖公布)
 1. [欧盟就新一轮对俄制裁达成协议](https://www.zhihu.com/search?q=欧盟就新一轮对俄制裁达成协议)
 1. [美国国债首次突破 31 万亿美元](https://www.zhihu.com/search?q=美国国债首次突破 31 万亿美元)
