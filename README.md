@@ -7,9 +7,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 10 2022 16:26:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 10 2022 17:22:38 GMT+0800 (China Standard Time) -->
 
-1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [女博士百万积蓄交亲姐保管难要回](https://www.zhihu.com/search?q=女博士百万积蓄交亲姐保管难要回)
 1. [海天回应双标：不区分国内外市场](https://www.zhihu.com/search?q=海天回应双标：不区分国内外市场)
 1. [中国女排挺进世锦赛八强](https://www.zhihu.com/search?q=中国女排挺进世锦赛八强)
@@ -19,6 +18,8 @@
 1. [全球外汇储备减少约 1 万亿美元](https://www.zhihu.com/search?q=全球外汇储备减少约 1 万亿美元)
 1. [TES 不敌 DRX](https://www.zhihu.com/search?q=TES 不敌 DRX)
 1. [网红兔狲狲思邈意外死亡](https://www.zhihu.com/search?q=网红兔狲狲思邈意外死亡)
+1. [乌克兰首都发生多次爆炸](https://www.zhihu.com/search?q=乌克兰首都发生多次爆炸)
+1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [国考报名季](https://www.zhihu.com/search?q=国考报名季)
 1. [监管部门回应椰树擦边直播](https://www.zhihu.com/search?q=监管部门回应椰树擦边直播)
 1. [明日方舟新干员](https://www.zhihu.com/search?q=明日方舟新干员)
