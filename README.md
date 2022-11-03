@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 03 2022 21:40:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 03 2022 22:17:17 GMT+0800 (China Standard Time) -->
 
 1. [南开一本科生直博北大被曝论文抄袭](https://www.zhihu.com/search?q=南开一本科生直博北大被曝论文抄袭)
 1. [河南平顶山市区发生巨响](https://www.zhihu.com/search?q=河南平顶山市区发生巨响)
