@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 07 2022 05:12:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 07 2022 06:13:52 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [S12 总决赛](https://www.zhihu.com/search?q=S12 总决赛)
