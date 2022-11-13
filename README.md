@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 13 2022 20:27:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 13 2022 21:26:21 GMT+0800 (China Standard Time) -->
 
 1. [朱一龙金鸡影帝](https://www.zhihu.com/search?q=朱一龙金鸡影帝)
 1. [半脑患者识字认人准确率达 80%](https://www.zhihu.com/search?q=半脑患者识字认人准确率达 80%)
