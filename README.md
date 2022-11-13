@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 13 2022 22:12:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 13 2022 23:14:09 GMT+0800 (China Standard Time) -->
 
 1. [半脑患者识字认人准确率达 80%](https://www.zhihu.com/search?q=半脑患者识字认人准确率达 80%)
 1. [网店卖催吐用的「仙女管」合理吗](https://www.zhihu.com/search?q=网店卖催吐用的「仙女管」合理吗)
