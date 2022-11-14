@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 15 2022 01:27:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 15 2022 02:17:15 GMT+0800 (China Standard Time) -->
 
 1. [中国高血压诊断标准下调](https://www.zhihu.com/search?q=中国高血压诊断标准下调)
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
