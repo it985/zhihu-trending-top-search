@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 16 2022 12:20:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 16 2022 13:12:35 GMT+0800 (China Standard Time) -->
 
 1. [著名声乐教育家金铁霖去世](https://www.zhihu.com/search?q=著名声乐教育家金铁霖去世)
 1. [人类首次不停靠环航北冰洋](https://www.zhihu.com/search?q=人类首次不停靠环航北冰洋)
