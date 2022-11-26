@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 26 2022 15:11:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 26 2022 16:15:52 GMT+0800 (China Standard Time) -->
 
 1. [补时连进两球伊朗 2:0 击败威尔士](https://www.zhihu.com/search?q=补时连进两球伊朗 2:0 击败威尔士)
 1. [广州通报称没有「静默」的安排](https://www.zhihu.com/search?q=广州通报称没有「静默」的安排)
