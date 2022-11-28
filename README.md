@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 28 2022 07:13:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 28 2022 09:04:10 GMT+0800 (China Standard Time) -->
 
 1. [奥特曼可查询核酸结果？郑州回应](https://www.zhihu.com/search?q=奥特曼可查询核酸结果？郑州回应)
 1. [官方通报甘肃一医院耽误患者治疗时机](https://www.zhihu.com/search?q=官方通报甘肃一医院耽误患者治疗时机)
