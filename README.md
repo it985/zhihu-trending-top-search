@@ -7,7 +7,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 08 2022 00:17:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 08 2022 01:11:27 GMT+0800 (China Standard Time) -->
 
 1. [西班牙点球大战遭摩洛哥淘汰](https://www.zhihu.com/search?q=西班牙点球大战遭摩洛哥淘汰)
 1. [大雪](https://www.zhihu.com/search?q=大雪)
