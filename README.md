@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 16 2022 03:09:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 16 2022 04:12:17 GMT+0800 (China Standard Time) -->
 
 1. [11 月商品住宅销售价格环比总体延续降势](https://www.zhihu.com/search?q=11
    月商品住宅销售价格环比总体延续降势)
