@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 21 2022 17:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 21 2022 18:13:08 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [官方：多地已发现 BQ.1 和 XBB
