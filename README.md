@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 28 2022 13:11:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 28 2022 14:15:31 GMT+0800 (China Standard Time) -->
 
 1. [重症白肺死亡率 40% 以上](https://www.zhihu.com/search?q=重症白肺死亡率 40%
    以上)
@@ -21,6 +21,7 @@
 1. [足协回应武汉三镇「黑暗势力」声明](https://www.zhihu.com/search?q=足协回应武汉三镇「黑暗势力」声明)
 1. [31 省份新增死亡病例 3 例](https://www.zhihu.com/search?q=31 省份新增死亡病例
    3 例)
+1. [死神千年血战篇完结](https://www.zhihu.com/search?q=死神千年血战篇完结)
 1. [微念与李子柒达成和解](https://www.zhihu.com/search?q=微念与李子柒达成和解)
 1. [官方发布「乙类乙管」5
    个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
