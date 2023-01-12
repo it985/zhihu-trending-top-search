@@ -8,10 +8,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 12 2023 19:14:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 12 2023 20:26:06 GMT+0800 (China Standard Time) -->
 
-1. [广州一男子驾车冲撞行人致 5 死 13
-   伤](https://www.zhihu.com/search?q=广州一男子驾车冲撞行人致 5 死 13 伤)
 1. [种植 1 颗牙的费用有望降低约 50%](https://www.zhihu.com/search?q=种植 1
    颗牙的费用有望降低约 50%)
 1. [中方回应日本抗议中国停发赴华签证](https://www.zhihu.com/search?q=中方回应日本抗议中国停发赴华签证)
@@ -23,6 +21,9 @@
 1. [全球至少一半冰川将在本世纪消失](https://www.zhihu.com/search?q=全球至少一半冰川将在本世纪消失)
 1. [剧版三体定档 0115](https://www.zhihu.com/search?q=剧版三体定档 0115)
 1. [「傻子瓜子」创始人年广九逝世](https://www.zhihu.com/search?q=「傻子瓜子」创始人年广九逝世)
+1. [胡鑫宇搜寻方向](https://www.zhihu.com/search?q=胡鑫宇搜寻方向)
+1. [广州一男子驾车冲撞行人致 5 死 13
+   伤](https://www.zhihu.com/search?q=广州一男子驾车冲撞行人致 5 死 13 伤)
 1. [爱奇艺 App 对投屏功能作出限制](https://www.zhihu.com/search?q=爱奇艺 App
    对投屏功能作出限制)
 1. [刘鑫已成「被执行人」](https://www.zhihu.com/search?q=刘鑫已成「被执行人」)
