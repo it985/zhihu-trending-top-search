@@ -20,14 +20,9 @@
     "display_query": "太阳 4 天内发出两次 X 级耀斑"
   },
   {
-    "query": "爱奇艺 App 对投屏功能作出限制",
-    "display_query": "爱奇艺 App 对投屏功能作出限制"
-  },
-  {
     "query": "美新药研制无需动物试验也可获批",
     "display_query": "美新药研制无需动物试验也可获批"
   },
-  { "query": "刘鑫已成「被执行人」", "display_query": "刘鑫已成「被执行人」" },
   {
     "query": "专家不建议春节期间探访未阳老人",
     "display_query": "专家不建议春节期间探访未阳老人"
@@ -41,5 +36,10 @@
     "query": "「傻子瓜子」创始人年广九逝世",
     "display_query": "「傻子瓜子」创始人年广九逝世"
   },
+  {
+    "query": "爱奇艺 App 对投屏功能作出限制",
+    "display_query": "爱奇艺 App 对投屏功能作出限制"
+  },
+  { "query": "刘鑫已成「被执行人」", "display_query": "刘鑫已成「被执行人」" },
   { "query": "杨紫琼金球奖影后", "display_query": "杨紫琼金球奖影后" }
 ]
