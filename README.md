@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 12 2023 16:16:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 12 2023 17:13:38 GMT+0800 (China Standard Time) -->
 
 1. [广州一男子驾车冲撞行人致 5 死 13
    伤](https://www.zhihu.com/search?q=广州一男子驾车冲撞行人致 5 死 13 伤)
@@ -18,7 +18,10 @@
 1. [美国国内航班停飞令已取消](https://www.zhihu.com/search?q=美国国内航班停飞令已取消)
 1. [太阳 4 天内发出两次 X 级耀斑](https://www.zhihu.com/search?q=太阳 4
    天内发出两次 X 级耀斑)
+1. [爱奇艺 App 对投屏功能作出限制](https://www.zhihu.com/search?q=爱奇艺 App
+   对投屏功能作出限制)
 1. [美新药研制无需动物试验也可获批](https://www.zhihu.com/search?q=美新药研制无需动物试验也可获批)
+1. [刘鑫已成「被执行人」](https://www.zhihu.com/search?q=刘鑫已成「被执行人」)
 1. [专家不建议春节期间探访未阳老人](https://www.zhihu.com/search?q=专家不建议春节期间探访未阳老人)
 1. [全球至少一半冰川将在本世纪消失](https://www.zhihu.com/search?q=全球至少一半冰川将在本世纪消失)
 1. [剧版三体定档 0115](https://www.zhihu.com/search?q=剧版三体定档 0115)
