@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 13 2023 20:23:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 13 2023 21:19:40 GMT+0800 (China Standard Time) -->
 
 1. [美国去年 12 月 CPI 同比上涨 6.5%](https://www.zhihu.com/search?q=美国去年 12
    月 CPI 同比上涨 6.5%)
