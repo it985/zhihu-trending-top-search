@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 21 2023 16:14:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 21 2023 17:10:55 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [剧版三体第九集](https://www.zhihu.com/search?q=剧版三体第九集)
