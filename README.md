@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 25 2023 11:13:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 25 2023 12:14:34 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [飞抵哈尔滨的飞机行李舱门被冻住](https://www.zhihu.com/search?q=飞抵哈尔滨的飞机行李舱门被冻住)
