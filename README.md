@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 25 2023 09:00:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 25 2023 10:18:07 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [星穹铁道群像 PV](https://www.zhihu.com/search?q=星穹铁道群像 PV)
