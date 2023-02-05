@@ -8,9 +8,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 05 2023 07:11:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 05 2023 09:07:32 GMT+0800 (China Standard Time) -->
 
-1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [中国宏观税负降至 13.8％
    创新低](https://www.zhihu.com/search?q=中国宏观税负降至 13.8％ 创新低)
 1. [欧文申请交易](https://www.zhihu.com/search?q=欧文申请交易)
@@ -20,6 +19,7 @@
    岁患者疑似患阿尔茨海默病)
 1. [iG 赛季首败](https://www.zhihu.com/search?q=iG 赛季首败)
 1. [许广高速长湘段多车相撞起火](https://www.zhihu.com/search?q=许广高速长湘段多车相撞起火)
+1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 
 <!-- END -->
 
