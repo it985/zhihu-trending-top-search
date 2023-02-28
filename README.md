@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 01 2023 04:13:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 01 2023 05:11:34 GMT+0800 (China Standard Time) -->
 
 1. [宝可梦直面发布会](https://www.zhihu.com/search?q=宝可梦直面发布会)
 1. [艾尔登法环官宣 DLC](https://www.zhihu.com/search?q=艾尔登法环官宣 DLC)
