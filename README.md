@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 03 2023 22:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 03 2023 23:13:04 GMT+0800 (China Standard Time) -->
 
 1. [游戏卧龙苍天陨落销量登顶](https://www.zhihu.com/search?q=游戏卧龙苍天陨落销量登顶)
 1. [五哈 3 硬核首播](https://www.zhihu.com/search?q=五哈 3 硬核首播)
