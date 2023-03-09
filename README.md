@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 09 2023 10:49:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 09 2023 11:20:31 GMT+0800 (China Standard Time) -->
 
 1. [游戏天际线 2 正式公开](https://www.zhihu.com/search?q=游戏天际线 2 正式公开)
 1. [韩国或加入美日印澳「四边机制」](https://www.zhihu.com/search?q=韩国或加入美日印澳「四边机制」)
