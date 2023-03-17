@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 17 2023 14:14:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 17 2023 15:11:12 GMT+0800 (China Standard Time) -->
 
 1. [GPT-4 是如何理解人类意图和动机的](https://www.zhihu.com/search?q=GPT-4
    是如何理解人类意图和动机的)
