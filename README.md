@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 18 2023 22:10:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 18 2023 23:11:12 GMT+0800 (China Standard Time) -->
 
 1. [土耳其支持芬兰加入北约](https://www.zhihu.com/search?q=土耳其支持芬兰加入北约)
 1. [姜广涛涉嫌刑事犯罪](https://www.zhihu.com/search?q=姜广涛涉嫌刑事犯罪)
