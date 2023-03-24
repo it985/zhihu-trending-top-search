@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 24 2023 14:14:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 24 2023 15:10:22 GMT+0800 (China Standard Time) -->
 
 1. [国足 0:0 新西兰](https://www.zhihu.com/search?q=国足 0:0 新西兰)
 1. [3 月 86 款游戏获批](https://www.zhihu.com/search?q=3 月 86 款游戏获批)
