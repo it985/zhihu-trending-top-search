@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 28 2023 10:31:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 28 2023 11:12:45 GMT+0800 (China Standard Time) -->
 
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=新海诚《铃芽之旅》上映)
 1. [Epic 公布面捕技术](https://www.zhihu.com/search?q=Epic 公布面捕技术)
