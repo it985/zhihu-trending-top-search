@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 12 2023 22:10:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 12 2023 23:11:49 GMT+0800 (China Standard Time) -->
 
 1. [沙尘暴蓝色预警](https://www.zhihu.com/search?q=沙尘暴蓝色预警)
 1. [专家称「子女是长周期的耐用消费品」](https://www.zhihu.com/search?q=专家称「子女是长周期的耐用消费品」)
