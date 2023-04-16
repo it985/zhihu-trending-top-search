@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 17 2023 04:11:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 17 2023 05:09:17 GMT+0800 (China Standard Time) -->
 
 1. [官方回应公务接待喝 20
    元酒被处分](https://www.zhihu.com/search?q=官方回应公务接待喝 20 元酒被处分)
