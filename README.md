@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 19 2023 18:12:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 19 2023 19:09:37 GMT+0800 (China Standard Time) -->
 
 1. [新冠新变种 Arcturus 传入国内](https://www.zhihu.com/search?q=新冠新变种
    Arcturus 传入国内)
