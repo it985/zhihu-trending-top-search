@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 23 2023 15:09:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 23 2023 16:13:30 GMT+0800 (China Standard Time) -->
 
 1. [瑞幸 罚抄](https://www.zhihu.com/search?q=瑞幸 罚抄)
 1. [漫长的季节开播](https://www.zhihu.com/search?q=漫长的季节开播)
