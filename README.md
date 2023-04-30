@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 30 2023 15:09:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 30 2023 16:12:51 GMT+0800 (China Standard Time) -->
 
 1. [年轻人玩起「交换旅游」](https://www.zhihu.com/search?q=年轻人玩起「交换旅游」)
 1. [新冠检测阳性率波动增加](https://www.zhihu.com/search?q=新冠检测阳性率波动增加)
