@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 04 2023 08:57:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 04 2023 10:02:43 GMT+0800 (China Standard Time) -->
 
 1. [西安观光直升机坠落](https://www.zhihu.com/search?q=西安观光直升机坠落)
 1. [哈尔滨天空现不明飞行物](https://www.zhihu.com/search?q=哈尔滨天空现不明飞行物)
