@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 05 2023 20:20:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 05 2023 21:13:30 GMT+0800 (China Standard Time) -->
 
 1. [微软 Bing 更新](https://www.zhihu.com/search?q=微软 Bing 更新)
 1. [7nm DNA「针管」](https://www.zhihu.com/search?q=7nm DNA「针管」)
