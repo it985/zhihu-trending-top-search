@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 09 2023 18:12:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 09 2023 19:09:12 GMT+0800 (China Standard Time) -->
 
 1. [极端气候突袭地中海](https://www.zhihu.com/search?q=极端气候突袭地中海)
 1. [「AI 孙燕姿」](https://www.zhihu.com/search?q=「AI 孙燕姿」)
