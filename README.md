@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 01 2023 03:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 01 2023 04:11:14 GMT+0800 (China Standard Time) -->
 
 1. [手游重返未来 1999 公测](https://www.zhihu.com/search?q=手游重返未来 1999
    公测)
