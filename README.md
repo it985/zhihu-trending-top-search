@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 22 2023 07:11:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 22 2023 09:06:50 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
 1. [燃气灶增加患白血病风险](https://www.zhihu.com/search?q=燃气灶增加患白血病风险)
