@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 28 2023 10:54:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 28 2023 11:23:36 GMT+0800 (China Standard Time) -->
 
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
 1. [6 岁男童游泳后感染「食脑虫」](https://www.zhihu.com/search?q=6
