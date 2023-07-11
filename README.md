@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 11 2023 14:16:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 11 2023 15:12:05 GMT+0800 (China Standard Time) -->
 
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [陕西发现一例猴痘病例](https://www.zhihu.com/search?q=陕西发现一例猴痘病例)
