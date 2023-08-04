@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 04 2023 09:00:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 04 2023 10:25:36 GMT+0800 (China Standard Time) -->
 
 1. [博德之门 3 正式版上线](https://www.zhihu.com/search?q=博德之门 3 正式版上线)
 1. [我被暴雨围困的 72 小时](https://www.zhihu.com/search?q=我被暴雨围困的 72
@@ -16,6 +16,7 @@
 1. [韩国超导低温学会称 LK-99
    并非常温超导体](https://www.zhihu.com/search?q=韩国超导低温学会称 LK-99
    并非常温超导体)
+1. [郑州暂停执行住房限售政策](https://www.zhihu.com/search?q=郑州暂停执行住房限售政策)
 
 <!-- END -->
 
