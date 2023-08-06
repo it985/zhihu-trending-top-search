@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 06 2023 13:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 06 2023 14:13:17 GMT+0800 (China Standard Time) -->
 
 1. [我被暴雨围困的 72 小时](https://www.zhihu.com/search?q=我被暴雨围困的 72
    小时)
