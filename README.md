@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 24 2023 04:10:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 24 2023 05:09:18 GMT+0800 (China Standard Time) -->
 
 1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 1. [「鼠头鸭脖」涉事企业成立新公司](https://www.zhihu.com/search?q=「鼠头鸭脖」涉事企业成立新公司)
