@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 15 2023 21:13:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 15 2023 22:09:58 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [二手苹果值吗](https://www.zhihu.com/search?q=二手苹果值吗)
