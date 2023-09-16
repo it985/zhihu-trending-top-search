@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 17 2023 03:08:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 17 2023 04:10:11 GMT+0800 (China Standard Time) -->
 
 1. [REST 型人格](https://www.zhihu.com/search?q=REST 型人格)
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=空气净化器怎么选)
