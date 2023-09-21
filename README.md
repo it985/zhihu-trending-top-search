@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 21 2023 20:21:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 21 2023 21:14:16 GMT+0800 (China Standard Time) -->
 
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=王者荣耀新赛季)
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
