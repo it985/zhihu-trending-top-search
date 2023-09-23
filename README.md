@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 23 2023 07:10:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 23 2023 08:48:55 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
@@ -18,6 +18,7 @@
 1. [车库为什么要建在地下](https://www.zhihu.com/search?q=车库为什么要建在地下)
 1. [韩国检方申请拘捕李在明](https://www.zhihu.com/search?q=韩国检方申请拘捕李在明)
 1. [预制菜进校园](https://www.zhihu.com/search?q=预制菜进校园)
+1. [体制脑](https://www.zhihu.com/search?q=体制脑)
 1. [ios17](https://www.zhihu.com/search?q=ios17)
 1. [全球钻石价格暴跌](https://www.zhihu.com/search?q=全球钻石价格暴跌)
 
