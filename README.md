@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 24 2023 16:12:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 24 2023 17:09:40 GMT+0800 (China Standard Time) -->
 
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
 1. [亚运会](https://www.zhihu.com/search?q=亚运会)
