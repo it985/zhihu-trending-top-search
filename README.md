@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 24 2023 21:11:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 24 2023 22:08:42 GMT+0800 (China Standard Time) -->
 
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
 1. [养宠必备吸尘器](https://www.zhihu.com/search?q=养宠必备吸尘器)
