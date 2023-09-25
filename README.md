@@ -8,9 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 25 2023 13:10:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 25 2023 14:14:57 GMT+0800 (China Standard Time) -->
 
-1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
+1. [北京一酒店推出楼梯间房](https://www.zhihu.com/search?q=北京一酒店推出楼梯间房)
 1. [初秋破壁机早餐](https://www.zhihu.com/search?q=初秋破壁机早餐)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
 1. [蓝牙耳机推荐2023](https://www.zhihu.com/search?q=蓝牙耳机推荐2023)
@@ -20,6 +20,7 @@
 1. [iOS17值得更新吗](https://www.zhihu.com/search?q=iOS17值得更新吗)
 1. [送男友什么耳机](https://www.zhihu.com/search?q=送男友什么耳机)
 1. [华强北蓝牙耳机](https://www.zhihu.com/search?q=华强北蓝牙耳机)
+1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
 
 <!-- END -->
 
