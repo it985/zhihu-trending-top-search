@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 10 2023 01:10:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 10 2023 02:13:57 GMT+0800 (China Standard Time) -->
 
 1. [拆快递拆到爽是什么样的体验](https://www.zhihu.com/search?q=拆快递拆到爽是什么样的体验)
 1. [烤肠体](https://www.zhihu.com/search?q=烤肠体)
