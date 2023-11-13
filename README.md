@@ -8,9 +8,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 13 2023 09:52:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 13 2023 10:22:56 GMT+0800 (China Standard Time) -->
 
-1. [电脑视频剪辑软件](https://www.zhihu.com/search?q=电脑视频剪辑软件)
+1. [剪辑电脑配置推荐](https://www.zhihu.com/search?q=剪辑电脑配置推荐)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=内行人眼中的全屋定制)
 1. [希法医院](https://www.zhihu.com/search?q=希法医院)
 1. [57国联合谴责以色列](https://www.zhihu.com/search?q=57国联合谴责以色列)
@@ -21,6 +21,7 @@
 1. [湖北襄阳医院贩卖出生证 6
    人被批捕](https://www.zhihu.com/search?q=湖北襄阳医院贩卖出生证 6 人被批捕)
 1. [日本知名乳业品牌明治牛奶检出兽药](https://www.zhihu.com/search?q=日本知名乳业品牌明治牛奶检出兽药)
+1. [电脑视频剪辑软件](https://www.zhihu.com/search?q=电脑视频剪辑软件)
 1. [视频剪辑素材](https://www.zhihu.com/search?q=视频剪辑素材)
 1. [T1 晋级总决赛](https://www.zhihu.com/search?q=T1 晋级总决赛)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
