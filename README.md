@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 24 2023 17:11:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 24 2023 18:12:26 GMT+0800 (China Standard Time) -->
 
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
