@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 05 2023 21:15:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 05 2023 22:11:11 GMT+0800 (China Standard Time) -->
 
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
 1. [A股](https://www.zhihu.com/search?q=A股)
