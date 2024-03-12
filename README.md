@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 12 2024 12:15:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 12 2024 13:12:18 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [openai](https://www.zhihu.com/search?q=openai)
