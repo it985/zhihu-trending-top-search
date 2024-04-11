@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 11 2024 19:10:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 11 2024 20:20:28 GMT+0800 (China Standard Time) -->
 
 1. [世界帕金森病日](https://www.zhihu.com/search?q=世界帕金森病日)
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
