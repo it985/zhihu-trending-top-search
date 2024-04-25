@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 25 2024 19:10:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 25 2024 20:17:51 GMT+0800 (China Standard Time) -->
 
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [心理学考研](https://www.zhihu.com/search?q=心理学考研)
