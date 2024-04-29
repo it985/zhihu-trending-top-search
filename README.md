@@ -8,9 +8,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 29 2024 08:54:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 29 2024 09:52:59 GMT+0800 (China Standard Time) -->
 
-1. [日元贬值](https://www.zhihu.com/search?q=日元贬值)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [心理学考研](https://www.zhihu.com/search?q=心理学考研)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
@@ -20,6 +19,8 @@
 1. [学历提升](https://www.zhihu.com/search?q=学历提升)
 1. [视频剪辑软件](https://www.zhihu.com/search?q=视频剪辑软件)
 1. [快船vs独行侠](https://www.zhihu.com/search?q=快船vs独行侠)
+1. [兼职副业干什么好](https://www.zhihu.com/search?q=兼职副业干什么好)
+1. [日元贬值](https://www.zhihu.com/search?q=日元贬值)
 
 <!-- END -->
 
