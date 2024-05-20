@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 21 2024 03:09:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 21 2024 04:12:14 GMT+0800 (China Standard Time) -->
 
 1. [五月天鸟巢演唱会](https://www.zhihu.com/search?q=五月天鸟巢演唱会)
 1. [gpt-4o「复现」openai总裁讲课](https://www.zhihu.com/search?q=gpt-4o「复现」openai总裁讲课)
