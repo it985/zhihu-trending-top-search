@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 05 2024 11:15:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 05 2024 12:17:27 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [孙颖莎女单夺冠](https://www.zhihu.com/search?q=孙颖莎女单夺冠)
