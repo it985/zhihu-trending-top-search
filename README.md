@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 06 2024 09:57:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 06 2024 10:31:10 GMT+0800 (China Standard Time) -->
 
 1. [苹果手机](https://www.zhihu.com/search?q=苹果手机)
 1. [墨雨云间](https://www.zhihu.com/search?q=墨雨云间)
