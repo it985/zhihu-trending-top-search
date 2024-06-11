@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 12 2024 02:17:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 12 2024 03:10:12 GMT+0800 (China Standard Time) -->
 
 1. [上海等级考](https://www.zhihu.com/search?q=上海等级考)
 1. [blg](https://www.zhihu.com/search?q=blg)
