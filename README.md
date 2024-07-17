@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 18 2024 06:12:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 18 2024 07:13:44 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷夺冠)
 1. [河南暴雨](https://www.zhihu.com/search?q=河南暴雨)
