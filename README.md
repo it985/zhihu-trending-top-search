@@ -8,7 +8,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 15 2024 10:20:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 15 2024 11:14:29 GMT+0800 (China Standard Time) -->
 
 1. [资生堂上半年净利润降
    99.9%](https://www.zhihu.com/search?q=资生堂上半年净利润降 99.9%)
