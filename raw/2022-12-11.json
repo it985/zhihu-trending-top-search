@@ -49,12 +49,12 @@
   },
   { "query": "英格兰 vs 法国", "display_query": "英格兰 vs 法国" },
   {
-    "query": "克罗地亚点球大战淘汰巴西",
-    "display_query": "克罗地亚点球大战淘汰巴西"
-  },
-  {
     "query": "利瓦科维奇 2 场扑出 4 点球",
     "display_query": "利瓦科维奇 2 场扑出 4 点球"
+  },
+  {
+    "query": "克罗地亚点球大战淘汰巴西",
+    "display_query": "克罗地亚点球大战淘汰巴西"
   },
   { "query": "摩洛哥 vs 葡萄牙", "display_query": "摩洛哥 vs 葡萄牙" }
 ]

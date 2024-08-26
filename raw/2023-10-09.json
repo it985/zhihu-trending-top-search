@@ -11,13 +11,6 @@
   { "query": "花西子再发声", "display_query": "花西子再发声" },
   { "query": "无线耳机", "display_query": "无线耳机" },
   { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
-  {
-    "query": "唐慧犯寻衅滋事罪被判四年",
-    "display_query": "唐慧犯寻衅滋事罪被判四年"
-  },
-  { "query": "李思思从央视离职", "display_query": "李思思从央视离职" },
-  {
-    "query": "以色列正式向哈马斯宣战",
-    "display_query": "以色列正式向哈马斯宣战"
-  }
+  { "query": "以色列正式向哈马斯宣战", "display_query": "以色列正式向哈马斯宣战" },
+  { "query": "华为1999手机壳", "display_query": "华为1999手机壳" }
 ]

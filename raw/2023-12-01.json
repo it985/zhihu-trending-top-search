@@ -8,14 +8,8 @@
   { "query": "考研经验分享", "display_query": "考研经验分享" },
   { "query": "留学生开放定向选调", "display_query": "留学生开放定向选调" },
   { "query": "助学金申请理由200", "display_query": "助学金申请理由200" },
-  {
-    "query": "运动会加油稿小众惊艳150字",
-    "display_query": "运动会加油稿小众惊艳150字"
-  },
-  {
-    "query": "普通话自由说话30篇万能模板",
-    "display_query": "普通话自由说话30篇万能模板"
-  },
+  { "query": "运动会加油稿小众惊艳150字", "display_query": "运动会加油稿小众惊艳150字" },
+  { "query": "普通话自由说话30篇万能模板", "display_query": "普通话自由说话30篇万能模板" },
   { "query": "武汉大学", "display_query": "武汉大学" },
   { "query": "今日股市行情", "display_query": "今日股市行情" }
 ]

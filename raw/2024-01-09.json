@@ -1,9 +1,6 @@
 [
   { "query": "金球奖", "display_query": "金球奖" },
-  {
-    "query": "老师怎么看出来作文是抄的",
-    "display_query": "老师怎么看出来作文是抄的"
-  },
+  { "query": "老师怎么看出来作文是抄的", "display_query": "老师怎么看出来作文是抄的" },
   { "query": "A股市场", "display_query": "A股市场" },
   { "query": "AI智能写作哪个好", "display_query": "AI智能写作哪个好" },
   { "query": "大学老师逆天发言", "display_query": "大学老师逆天发言" },

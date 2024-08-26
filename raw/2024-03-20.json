@@ -13,8 +13,5 @@
   { "query": "考研英语二", "display_query": "考研英语二" },
   { "query": "雅思听力", "display_query": "雅思听力" },
   { "query": "雅思6.5", "display_query": "雅思6.5" },
-  {
-    "query": "雅思备考大概需要多长时间",
-    "display_query": "雅思备考大概需要多长时间"
-  }
+  { "query": "雅思备考大概需要多长时间", "display_query": "雅思备考大概需要多长时间" }
 ]

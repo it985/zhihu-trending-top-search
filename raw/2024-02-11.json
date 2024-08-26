@@ -10,14 +10,8 @@
   { "query": "热辣滚烫", "display_query": "热辣滚烫" },
   { "query": "第二十条", "display_query": "第二十条" },
   { "query": "卡塔尔亚洲杯", "display_query": "卡塔尔亚洲杯" },
-  {
-    "query": "过年送爸妈什么家居好物",
-    "display_query": "过年送爸妈什么家居好物"
-  },
-  {
-    "query": "纳入「年货清单」的健康好物",
-    "display_query": "纳入「年货清单」的健康好物"
-  },
+  { "query": "过年送爸妈什么家居好物", "display_query": "过年送爸妈什么家居好物" },
+  { "query": "纳入「年货清单」的健康好物", "display_query": "纳入「年货清单」的健康好物" },
   { "query": "", "display_query": "" },
   { "query": "梅西", "display_query": "梅西" }
 ]

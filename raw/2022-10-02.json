@@ -47,16 +47,12 @@
   { "query": "中国女篮获世界杯亚军", "display_query": "中国女篮获世界杯亚军" },
   { "query": "杨振宁百岁生日", "display_query": "杨振宁百岁生日" },
   {
+    "query": "美国对俄罗斯实体全面制裁",
+    "display_query": "美国对俄罗斯实体全面制裁"
+  },
+  {
     "query": "iPhone 6 被苹果列入过时产品",
     "display_query": "iPhone 6 被苹果列入过时产品"
   },
-  {
-    "query": "印尼体育场发生暴力事件已致 127 人死亡",
-    "display_query": "印尼体育场发生暴力事件已致 127 人死亡"
-  },
-  { "query": "国庆节", "display_query": "国庆节" },
-  {
-    "query": "美国对俄罗斯实体全面制裁",
-    "display_query": "美国对俄罗斯实体全面制裁"
-  }
+  { "query": "国庆节", "display_query": "国庆节" }
 ]

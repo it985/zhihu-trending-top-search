@@ -9,8 +9,5 @@
   { "query": "考研英语二", "display_query": "考研英语二" },
   { "query": "定向选调生", "display_query": "定向选调生" },
   { "query": "资料分析", "display_query": "资料分析" },
-  {
-    "query": "会计考研考学硕还是专硕",
-    "display_query": "会计考研考学硕还是专硕"
-  }
+  { "query": "会计考研考学硕还是专硕", "display_query": "会计考研考学硕还是专硕" }
 ]

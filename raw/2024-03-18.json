@@ -8,10 +8,7 @@
   { "query": "雅思口语", "display_query": "雅思口语" },
   { "query": "雅思听力", "display_query": "雅思听力" },
   { "query": "雅思6.5", "display_query": "雅思6.5" },
-  {
-    "query": "雅思备考大概需要多长时间",
-    "display_query": "雅思备考大概需要多长时间"
-  },
+  { "query": "雅思备考大概需要多长时间", "display_query": "雅思备考大概需要多长时间" },
   { "query": "欧冠八强出炉", "display_query": "欧冠八强出炉" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "定向选调生", "display_query": "定向选调生" },

@@ -12,10 +12,8 @@
   { "query": "选安卓还是苹果", "display_query": "选安卓还是苹果" },
   { "query": "为什么选安卓", "display_query": "为什么选安卓" },
   { "query": "折叠屏手机推荐", "display_query": "折叠屏手机推荐" },
-  {
-    "query": "运动手环和手表哪个好用",
-    "display_query": "运动手环和手表哪个好用"
-  },
+  { "query": "运动手环和手表哪个好用", "display_query": "运动手环和手表哪个好用" },
   { "query": "一个租房小建议", "display_query": "一个租房小建议" },
+  { "query": "燃气热水器怎么选", "display_query": "燃气热水器怎么选" },
   { "query": "恰到好处的爱", "display_query": "恰到好处的爱" }
 ]

@@ -17,6 +17,10 @@
     "query": "IMF 下调明年经济增长预期",
     "display_query": "IMF 下调明年经济增长预期"
   },
+  {
+    "query": "\tBF.7 变异株已发现「过路传播」",
+    "display_query": "\tBF.7 变异株已发现「过路传播」"
+  },
   { "query": "9 月社融环比大增", "display_query": "9 月社融环比大增" },
   {
     "query": "美方称将重新思考与沙特的关系",
@@ -31,15 +35,15 @@
     "display_query": "央行：坚决抑制汇率大起大落"
   },
   {
-    "query": "\tBF.7 变异株已发现「过路传播」",
-    "display_query": "\tBF.7 变异株已发现「过路传播」"
-  },
-  {
     "query": "我国多地检出 BF.7 变异株",
     "display_query": "我国多地检出 BF.7 变异株"
   },
   { "query": "RNG 小组第一", "display_query": "RNG 小组第一" },
   { "query": "朝鲜进行多项军事行动", "display_query": "朝鲜进行多项军事行动" },
+  {
+    "query": "俄副总理回应欧盟煤炭禁运",
+    "display_query": "俄副总理回应欧盟煤炭禁运"
+  },
   { "query": "西安全市暂停线下教学", "display_query": "西安全市暂停线下教学" },
   {
     "query": "七国集团讨论乌克兰问题",

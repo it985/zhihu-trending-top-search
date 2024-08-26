@@ -33,11 +33,11 @@
     "display_query": "\t默沙东与国药达成新冠口服药合作"
   },
   { "query": "电锯人更新", "display_query": "电锯人更新" },
+  { "query": "李建平一审被判死刑", "display_query": "李建平一审被判死刑" },
   {
     "query": "北溪管道遭破坏发现 3 处泄露",
     "display_query": "北溪管道遭破坏发现 3 处泄露"
   },
-  { "query": "李建平一审被判死刑", "display_query": "李建平一审被判死刑" },
   { "query": "晕车终于有救了", "display_query": "晕车终于有救了" },
   { "query": "底线拍了江歌案", "display_query": "底线拍了江歌案" },
   {
@@ -53,12 +53,20 @@
     "display_query": "离岸人民币兑美元跌破 7.2 关口"
   },
   {
+    "query": "俄罗斯：必要时有权使用核武器",
+    "display_query": "俄罗斯：必要时有权使用核武器"
+  },
+  {
     "query": "昆明 7 万余人被赋黄码",
     "display_query": "昆明 7 万余人被赋黄码"
   },
   {
-    "query": "俄罗斯：必要时有权使用核武器",
-    "display_query": "俄罗斯：必要时有权使用核武器"
+    "query": "成交就奖励中介 22 万和 iPhone 14",
+    "display_query": "成交就奖励中介 22 万和 iPhone 14"
+  },
+  {
+    "query": "「北溪-2」在丹麦海域发生泄漏",
+    "display_query": "「北溪-2」在丹麦海域发生泄漏"
   },
   {
     "query": "美同意援助乌克兰近 120 亿美元",
@@ -69,9 +77,19 @@
     "display_query": "贾跃亭率合伙人公司重组 FF 董事会"
   },
   {
-    "query": "成交就奖励中介 22 万和 iPhone 14",
-    "display_query": "成交就奖励中介 22 万和 iPhone 14"
+    "query": "美国海岸警卫队拍到中国导弹驱逐舰",
+    "display_query": "美国海岸警卫队拍到中国导弹驱逐舰"
   },
+  { "query": "瑞克和莫蒂第六季更新", "display_query": "瑞克和莫蒂第六季更新" },
+  {
+    "query": "微信新增退群保留聊天记录功能",
+    "display_query": "微信新增退群保留聊天记录功能"
+  },
+  {
+    "query": "歼-20 等多型国产战机曾砺兵台海",
+    "display_query": "歼-20 等多型国产战机曾砺兵台海"
+  },
+  { "query": "一箭三星", "display_query": "一箭三星" },
   {
     "query": "全场经济衰退概率高达 98%",
     "display_query": "全场经济衰退概率高达 98%"
@@ -85,17 +103,7 @@
     "query": "西工大遭 NSA 网络攻击调查报告（之二）",
     "display_query": "西工大遭 NSA 网络攻击调查报告（之二）"
   },
-  {
-    "query": "「北溪-2」在丹麦海域发生泄漏",
-    "display_query": "「北溪-2」在丹麦海域发生泄漏"
-  },
-  { "query": "瑞克和莫蒂第六季更新", "display_query": "瑞克和莫蒂第六季更新" },
-  {
-    "query": "美国海岸警卫队拍到中国导弹驱逐舰",
-    "display_query": "美国海岸警卫队拍到中国导弹驱逐舰"
-  },
   { "query": "美宇宙飞船撞击小行星", "display_query": "美宇宙飞船撞击小行星" },
-  { "query": "一箭三星", "display_query": "一箭三星" },
   {
     "query": "教育部支持河南省设立高等学校",
     "display_query": "教育部支持河南省设立高等学校"

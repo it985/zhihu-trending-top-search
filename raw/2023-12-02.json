@@ -8,8 +8,5 @@
   { "query": "考研经验分享", "display_query": "考研经验分享" },
   { "query": "留学生开放定向选调", "display_query": "留学生开放定向选调" },
   { "query": "助学金申请理由200", "display_query": "助学金申请理由200" },
-  {
-    "query": "运动会加油稿小众惊艳150字",
-    "display_query": "运动会加油稿小众惊艳150字"
-  }
+  { "query": "运动会加油稿小众惊艳150字", "display_query": "运动会加油稿小众惊艳150字" }
 ]

@@ -10,14 +10,8 @@
   { "query": "留学生开放定向选调", "display_query": "留学生开放定向选调" },
   { "query": "助学金申请理由200", "display_query": "助学金申请理由200" },
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
-  {
-    "query": "非全日制研究生应届生身份",
-    "display_query": "非全日制研究生应届生身份"
-  },
-  {
-    "query": "非全日制研究生应届生身份界定",
-    "display_query": "非全日制研究生应届生身份界定"
-  },
+  { "query": "非全日制研究生应届生身份", "display_query": "非全日制研究生应届生身份" },
+  { "query": "非全日制研究生应届生身份界定", "display_query": "非全日制研究生应届生身份界定" },
   { "query": "A股", "display_query": "A股" },
   { "query": "欧冠", "display_query": "欧冠" }
 ]

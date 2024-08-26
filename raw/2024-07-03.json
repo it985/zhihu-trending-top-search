@@ -8,27 +8,16 @@
   { "query": "长相思2定档", "display_query": "长相思2定档" },
   { "query": "赵今麦演技", "display_query": "赵今麦演技" },
   { "query": "西班牙 4-1 格鲁吉亚", "display_query": "西班牙 4-1 格鲁吉亚" },
-  {
-    "query": "西班牙 4-1 格鲁吉亚进8强",
-    "display_query": "西班牙 4-1 格鲁吉亚进8强"
-  },
-  {
-    "query": "「天龙三号」火箭试车失败",
-    "display_query": "「天龙三号」火箭试车失败"
-  },
+  { "query": "西班牙 4-1 格鲁吉亚进8强", "display_query": "西班牙 4-1 格鲁吉亚进8强" },
+  { "query": "「天龙三号」火箭试车失败", "display_query": "「天龙三号」火箭试车失败" },
   { "query": "度华年", "display_query": "度华年" },
   { "query": "崔永熙签约开拓者", "display_query": "崔永熙签约开拓者" },
-  {
-    "query": "河南巩义一火箭坠落起火",
-    "display_query": "河南巩义一火箭坠落起火"
-  },
-  { "query": "B 站崩了", "display_query": "B 站崩了" },
+  { "query": "河南巩义一火箭坠落起火", "display_query": "河南巩义一火箭坠落起火" },
   { "query": "A股市场", "display_query": "A股市场" },
   { "query": "比亚迪销量", "display_query": "比亚迪销量" },
   { "query": "东方甄选", "display_query": "东方甄选" },
-  {
-    "query": "小林制药问题保健品调查结果",
-    "display_query": "小林制药问题保健品调查结果"
-  },
+  { "query": "小林制药问题保健品调查结果", "display_query": "小林制药问题保健品调查结果" },
+  { "query": "周迅二封白玉兰视后", "display_query": "周迅二封白玉兰视后" },
+  { "query": "B 站崩了", "display_query": "B 站崩了" },
   { "query": "特斯拉", "display_query": "特斯拉" }
 ]

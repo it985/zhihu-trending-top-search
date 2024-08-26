@@ -5,15 +5,11 @@
   { "query": "考研数学", "display_query": "考研数学" },
   { "query": "选安卓还是苹果", "display_query": "选安卓还是苹果" },
   { "query": "为什么选安卓", "display_query": "为什么选安卓" },
-  {
-    "query": "运动手环和手表哪个好用",
-    "display_query": "运动手环和手表哪个好用"
-  },
+  { "query": "运动手环和手表哪个好用", "display_query": "运动手环和手表哪个好用" },
   { "query": "二手苹果值吗", "display_query": "二手苹果值吗" },
   { "query": "碳中和", "display_query": "碳中和" },
   { "query": "显示器2k还是4k", "display_query": "显示器2k还是4k" },
   { "query": "华为matepad", "display_query": "华为matepad" },
   { "query": "为什么苹果信号差", "display_query": "为什么苹果信号差" },
-  { "query": "考研需要买平板吗", "display_query": "考研需要买平板吗" },
-  { "query": "台式机diy", "display_query": "台式机diy" }
+  { "query": "考研需要买平板吗", "display_query": "考研需要买平板吗" }
 ]

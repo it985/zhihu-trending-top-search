@@ -2,18 +2,9 @@
   { "query": "NBA勇士120:109活塞", "display_query": "NBA勇士120:109活塞" },
   { "query": "烤肠体", "display_query": "烤肠体" },
   { "query": "特斯拉涨价", "display_query": "特斯拉涨价" },
-  {
-    "query": "华为发布首款纯电轿车智界S7",
-    "display_query": "华为发布首款纯电轿车智界S7"
-  },
-  {
-    "query": "央行将适时调整优化房地产政策",
-    "display_query": "央行将适时调整优化房地产政策"
-  },
-  {
-    "query": "一中国女子日本街头被杀害",
-    "display_query": "一中国女子日本街头被杀害"
-  },
+  { "query": "华为发布首款纯电轿车智界S7", "display_query": "华为发布首款纯电轿车智界S7" },
+  { "query": "央行将适时调整优化房地产政策", "display_query": "央行将适时调整优化房地产政策" },
+  { "query": "一中国女子日本街头被杀害", "display_query": "一中国女子日本街头被杀害" },
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "公考备考经验贴", "display_query": "公考备考经验贴" },
@@ -30,90 +21,33 @@
   { "query": "华为mate60pro", "display_query": "华为mate60pro" },
   { "query": "智能手表推荐", "display_query": "智能手表推荐" },
   { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
-  {
-    "query": "你的家乡立冬有什么习俗",
-    "display_query": "你的家乡立冬有什么习俗"
-  },
+  { "query": "你的家乡立冬有什么习俗", "display_query": "你的家乡立冬有什么习俗" },
   { "query": "僧丫", "display_query": "僧丫" },
-  {
-    "query": "刘媛媛直播间回应被指虚假宣传",
-    "display_query": "刘媛媛直播间回应被指虚假宣传"
-  },
+  { "query": "刘媛媛直播间回应被指虚假宣传", "display_query": "刘媛媛直播间回应被指虚假宣传" },
   { "query": "凯恩进球停不下来", "display_query": "凯恩进球停不下来" },
-  {
-    "query": "罗翔代言瑞幸 为酱香拿铁普法",
-    "display_query": "罗翔代言瑞幸 为酱香拿铁普法"
-  },
-  {
-    "query": "刘媛媛曾6小时带货超1亿元",
-    "display_query": "刘媛媛曾6小时带货超1亿元"
-  },
+  { "query": "罗翔代言瑞幸 为酱香拿铁普法", "display_query": "罗翔代言瑞幸 为酱香拿铁普法" },
+  { "query": "刘媛媛曾6小时带货超1亿元", "display_query": "刘媛媛曾6小时带货超1亿元" },
   { "query": "A股", "display_query": "A股" },
-  {
-    "query": "刘媛媛直播带货被控虚假宣传",
-    "display_query": "刘媛媛直播带货被控虚假宣传"
-  },
+  { "query": "刘媛媛直播带货被控虚假宣传", "display_query": "刘媛媛直播带货被控虚假宣传" },
   { "query": "无期迷途 删角色", "display_query": "无期迷途 删角色" },
   { "query": "刘亦菲张靓颖合照", "display_query": "刘亦菲张靓颖合照" },
-  {
-    "query": "网红仲尼系生日当天溺亡",
-    "display_query": "网红仲尼系生日当天溺亡"
-  },
-  {
-    "query": "媒体：中山二院患癌事件不寻常",
-    "display_query": "媒体：中山二院患癌事件不寻常"
-  },
+  { "query": "网红仲尼系生日当天溺亡", "display_query": "网红仲尼系生日当天溺亡" },
+  { "query": "媒体：中山二院患癌事件不寻常", "display_query": "媒体：中山二院患癌事件不寻常" },
   { "query": "瑞幸 罗翔", "display_query": "瑞幸 罗翔" },
-  {
-    "query": "中山二院黄某家属称其病情严重",
-    "display_query": "中山二院黄某家属称其病情严重"
-  },
+  { "query": "中山二院黄某家属称其病情严重", "display_query": "中山二院黄某家属称其病情严重" },
   { "query": "陈建斌蒋勤勤否认离婚", "display_query": "陈建斌蒋勤勤否认离婚" },
-  { "query": "10月PPI同比下降 2.6%", "display_query": "10月PPI同比下降 2.6%" },
-  {
-    "query": "Mac系统是否内存越大越好",
-    "display_query": "Mac系统是否内存越大越好"
-  },
-  { "query": "为什么要买中高端手机", "display_query": "为什么要买中高端手机" },
-  {
-    "query": "苹果高管回应黄金内存质疑",
-    "display_query": "苹果高管回应黄金内存质疑"
-  },
-  { "query": "万物皆可 iHome", "display_query": "万物皆可 iHome" },
-  { "query": "新职人的智能家图鉴", "display_query": "新职人的智能家图鉴" },
-  { "query": "10月CPI同比下降0.2%", "display_query": "10月CPI同比下降0.2%" },
-  {
-    "query": "国内首次发现23个长新冠标志物",
-    "display_query": "国内首次发现23个长新冠标志物"
-  },
-  { "query": "美军空袭叙利亚", "display_query": "美军空袭叙利亚" },
   { "query": "立冬", "display_query": "立冬" },
   { "query": "欧冠", "display_query": "欧冠" },
-  {
-    "query": "日本对华水产品出口额减少",
-    "display_query": "日本对华水产品出口额减少"
-  },
-  {
-    "query": "以军逼近哈马斯指挥中心",
-    "display_query": "以军逼近哈马斯指挥中心"
-  },
-  {
-    "query": "网红仲尼疑在巴厘岛溺亡",
-    "display_query": "网红仲尼疑在巴厘岛溺亡"
-  },
-  {
-    "query": "中山二院回应涉癌实验室拆除",
-    "display_query": "中山二院回应涉癌实验室拆除"
-  },
+  { "query": "日本对华水产品出口额减少", "display_query": "日本对华水产品出口额减少" },
+  { "query": "10月CPI同比下降0.2%", "display_query": "10月CPI同比下降0.2%" },
+  { "query": "国内首次发现23个长新冠标志物", "display_query": "国内首次发现23个长新冠标志物" },
+  { "query": "美军空袭叙利亚", "display_query": "美军空袭叙利亚" },
+  { "query": "以军逼近哈马斯指挥中心", "display_query": "以军逼近哈马斯指挥中心" },
+  { "query": "网红仲尼疑在巴厘岛溺亡", "display_query": "网红仲尼疑在巴厘岛溺亡" },
+  { "query": "中山二院回应涉癌实验室拆除", "display_query": "中山二院回应涉癌实验室拆除" },
   { "query": "年轻人眼里的低价", "display_query": "年轻人眼里的低价" },
-  {
-    "query": "程序员群体是否已经过多了",
-    "display_query": "程序员群体是否已经过多了"
-  },
-  {
-    "query": "美国室温超导论文被《自然》撤稿",
-    "display_query": "美国室温超导论文被《自然》撤稿"
-  },
+  { "query": "程序员群体是否已经过多了", "display_query": "程序员群体是否已经过多了" },
+  { "query": "美国室温超导论文被《自然》撤稿", "display_query": "美国室温超导论文被《自然》撤稿" },
   { "query": "字节PICO大裁员", "display_query": "字节PICO大裁员" },
   { "query": "教资", "display_query": "教资" }
 ]

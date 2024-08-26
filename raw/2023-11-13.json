@@ -14,47 +14,22 @@
   { "query": "兼职副业干什么好", "display_query": "兼职副业干什么好" },
   { "query": "全媒体训练营", "display_query": "全媒体训练营" },
   { "query": "考研数学推荐书籍", "display_query": "考研数学推荐书籍" },
-  { "query": "新职人的智能家图鉴", "display_query": "新职人的智能家图鉴" },
   { "query": "T1 晋级总决赛", "display_query": "T1 晋级总决赛" },
   { "query": "电影斗破苍穹觉醒定档", "display_query": "电影斗破苍穹觉醒定档" },
-  {
-    "query": "泉州洛江原区长就餐时落水身亡",
-    "display_query": "泉州洛江原区长就餐时落水身亡"
-  },
+  { "query": "泉州洛江原区长就餐时落水身亡", "display_query": "泉州洛江原区长就餐时落水身亡" },
   { "query": "湖人战胜开拓者", "display_query": "湖人战胜开拓者" },
-  {
-    "query": "泉州一原区长水上餐厅落水身亡",
-    "display_query": "泉州一原区长水上餐厅落水身亡"
-  },
+  { "query": "泉州一原区长水上餐厅落水身亡", "display_query": "泉州一原区长水上餐厅落水身亡" },
   { "query": "推荐一本书", "display_query": "推荐一本书" },
-  {
-    "query": "加沙最大医院手术室已完全停用",
-    "display_query": "加沙最大医院手术室已完全停用"
-  },
-  {
-    "query": "联合国于加沙地带的办公室遭炮击",
-    "display_query": "联合国于加沙地带的办公室遭炮击"
-  },
-  {
-    "query": "数百民众到拜登宅邸附近抗议",
-    "display_query": "数百民众到拜登宅邸附近抗议"
-  },
+  { "query": "加沙最大医院手术室已完全停用", "display_query": "加沙最大医院手术室已完全停用" },
+  { "query": "联合国于加沙地带的办公室遭炮击", "display_query": "联合国于加沙地带的办公室遭炮击" },
+  { "query": "数百民众到拜登宅邸附近抗议", "display_query": "数百民众到拜登宅邸附近抗议" },
   { "query": "缅北电诈", "display_query": "缅北电诈" },
-  {
-    "query": "为啥固态硬盘降价这么快",
-    "display_query": "为啥固态硬盘降价这么快"
-  },
+  { "query": "为啥固态硬盘降价这么快", "display_query": "为啥固态硬盘降价这么快" },
   { "query": "张安达首夺排名赛冠军", "display_query": "张安达首夺排名赛冠军" },
-  {
-    "query": "阿巴斯想管理加沙？以色列否了",
-    "display_query": "阿巴斯想管理加沙？以色列否了"
-  },
+  { "query": "阿巴斯想管理加沙？以色列否了", "display_query": "阿巴斯想管理加沙？以色列否了" },
   { "query": "FaZe夺冠CAC", "display_query": "FaZe夺冠CAC" },
   { "query": "杰出 刀塔录音", "display_query": "杰出 刀塔录音" },
-  {
-    "query": "Capper自称精神出现问题",
-    "display_query": "Capper自称精神出现问题"
-  },
+  { "query": "Capper自称精神出现问题", "display_query": "Capper自称精神出现问题" },
   { "query": "火箭六连胜", "display_query": "火箭六连胜" },
   { "query": "国考备考经验", "display_query": "国考备考经验" },
   { "query": "台式机推荐", "display_query": "台式机推荐" },
@@ -64,52 +39,24 @@
   { "query": "一整面墙的书架", "display_query": "一整面墙的书架" },
   { "query": "阿森纳3比1伯恩利", "display_query": "阿森纳3比1伯恩利" },
   { "query": "WBG战胜BLG晋级决赛", "display_query": "WBG战胜BLG晋级决赛" },
-  {
-    "query": "从“双十一”看消费新态势",
-    "display_query": "从“双十一”看消费新态势"
-  },
-  {
-    "query": "男子申请强执获赔1600只鹅",
-    "display_query": "男子申请强执获赔1600只鹅"
-  },
-  {
-    "query": "Faker晋级决赛时的表情",
-    "display_query": "Faker晋级决赛时的表情"
-  },
+  { "query": "从“双十一”看消费新态势", "display_query": "从“双十一”看消费新态势" },
+  { "query": "男子申请强执获赔1600只鹅", "display_query": "男子申请强执获赔1600只鹅" },
+  { "query": "Faker晋级决赛时的表情", "display_query": "Faker晋级决赛时的表情" },
   { "query": "大闸蟹跌出“白菜价”", "display_query": "大闸蟹跌出“白菜价”" },
   { "query": "王一博单膝跪地戴帽杀", "display_query": "王一博单膝跪地戴帽杀" },
   { "query": "免费视频剪辑软件", "display_query": "免费视频剪辑软件" },
-  {
-    "query": "冰岛24小时内1400次地震",
-    "display_query": "冰岛24小时内1400次地震"
-  },
+  { "query": "冰岛24小时内1400次地震", "display_query": "冰岛24小时内1400次地震" },
   { "query": "希法医院", "display_query": "希法医院" },
   { "query": "57国联合谴责以色列", "display_query": "57国联合谴责以色列" },
-  {
-    "query": "加沙数家医院受到直接打击",
-    "display_query": "加沙数家医院受到直接打击"
-  },
+  { "query": "加沙数家医院受到直接打击", "display_query": "加沙数家医院受到直接打击" },
   { "query": "JDG 不敌 T1", "display_query": "JDG 不敌 T1" },
   { "query": "冰岛宣布进入紧急状态", "display_query": "冰岛宣布进入紧急状态" },
-  {
-    "query": "今年双十一冷清的原因找到了",
-    "display_query": "今年双十一冷清的原因找到了"
-  },
-  {
-    "query": "湖北襄阳医院贩卖出生证 6 人被批捕",
-    "display_query": "湖北襄阳医院贩卖出生证 6 人被批捕"
-  },
-  { "query": "剪辑电脑配置推荐", "display_query": "剪辑电脑配置推荐" },
-  {
-    "query": "日本知名乳业品牌明治牛奶检出兽药",
-    "display_query": "日本知名乳业品牌明治牛奶检出兽药"
-  },
+  { "query": "今年双十一冷清的原因找到了", "display_query": "今年双十一冷清的原因找到了" },
+  { "query": "湖北襄阳医院贩卖出生证 6 人被批捕", "display_query": "湖北襄阳医院贩卖出生证 6 人被批捕" },
+  { "query": "日本知名乳业品牌明治牛奶检出兽药", "display_query": "日本知名乳业品牌明治牛奶检出兽药" },
   { "query": "电脑视频剪辑软件", "display_query": "电脑视频剪辑软件" },
-  { "query": "视频剪辑素材", "display_query": "视频剪辑素材" },
+  { "query": "影视剪辑怎么避免侵权", "display_query": "影视剪辑怎么避免侵权" },
   { "query": "一个月国考来得及吗", "display_query": "一个月国考来得及吗" },
   { "query": "视频剪辑电脑配置", "display_query": "视频剪辑电脑配置" },
-  {
-    "query": "以军称哈马斯失去对加沙地带北部控制",
-    "display_query": "以军称哈马斯失去对加沙地带北部控制"
-  }
+  { "query": "以军称哈马斯失去对加沙地带北部控制", "display_query": "以军称哈马斯失去对加沙地带北部控制" }
 ]

@@ -6,10 +6,7 @@
   { "query": "米乳拿铁", "display_query": "米乳拿铁" },
   { "query": "选安卓还是苹果", "display_query": "选安卓还是苹果" },
   { "query": "为什么选安卓", "display_query": "为什么选安卓" },
-  {
-    "query": "运动手环和手表哪个好用",
-    "display_query": "运动手环和手表哪个好用"
-  },
+  { "query": "运动手环和手表哪个好用", "display_query": "运动手环和手表哪个好用" },
   { "query": "二手苹果值吗", "display_query": "二手苹果值吗" },
   { "query": "碳中和", "display_query": "碳中和" },
   { "query": "显示器2k还是4k", "display_query": "显示器2k还是4k" }
