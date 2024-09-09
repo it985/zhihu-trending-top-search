@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 09 2024 14:20:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 09 2024 15:13:23 GMT+0800 (China Standard Time) -->
 
+1. [真正的狠人是什么样的](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [为什么有深湖比深海更可怕的说法](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E6%B7%B1%E6%B9%96%E6%AF%94%E6%B7%B1%E6%B5%B7%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E8%AF%B4%E6%B3%95)
 1. [日本多地「大米荒」持续](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E3%80%8C%E5%A4%A7%E7%B1%B3%E8%8D%92%E3%80%8D%E6%8C%81%E7%BB%AD)
 1. [青海暴雨](https://www.zhihu.com/search?q=%E9%9D%92%E6%B5%B7%E6%9A%B4%E9%9B%A8)
