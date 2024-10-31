@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 31 2024 11:22:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 31 2024 13:15:10 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
+1. [为什么现在邮票无人问津](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%82%AE%E7%A5%A8%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5)
+1. [南京每平方公里野猪超4头](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%AF%8F%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C%E9%87%8E%E7%8C%AA%E8%B6%854%E5%A4%B4)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=%E8%87%AA%E9%A6%96%E8%B7%AF%E4%B8%8A%E8%A2%AB%E6%8A%93%E7%AE%97%E8%87%AA%E9%A6%96%E5%90%97)
 1. [独行侠力克森林狼](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E5%8A%9B%E5%85%8B%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [有没有动物杰作被误会是人为的](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8A%A8%E7%89%A9%E6%9D%B0%E4%BD%9C%E8%A2%AB%E8%AF%AF%E4%BC%9A%E6%98%AF%E4%BA%BA%E4%B8%BA%E7%9A%84)
@@ -25,6 +26,7 @@
 1. [「抽象画」是不是画难看人的借口](https://www.zhihu.com/search?q=%E3%80%8C%E6%8A%BD%E8%B1%A1%E7%94%BB%E3%80%8D%E6%98%AF%E4%B8%8D%E6%98%AF%E7%94%BB%E9%9A%BE%E7%9C%8B%E4%BA%BA%E7%9A%84%E5%80%9F%E5%8F%A3)
 1. [为什么古书出版要印成繁体字并排成竖版](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%A4%E4%B9%A6%E5%87%BA%E7%89%88%E8%A6%81%E5%8D%B0%E6%88%90%E7%B9%81%E4%BD%93%E5%AD%97%E5%B9%B6%E6%8E%92%E6%88%90%E7%AB%96%E7%89%88)
 1. [为什么高铁实际运行速度没有达到最高速](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%E5%AE%9E%E9%99%85%E8%BF%90%E8%A1%8C%E9%80%9F%E5%BA%A6%E6%B2%A1%E6%9C%89%E8%BE%BE%E5%88%B0%E6%9C%80%E9%AB%98%E9%80%9F)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [双十一买什么](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E4%B9%B0%E4%BB%80%E4%B9%88)
 
 <!-- END -->
