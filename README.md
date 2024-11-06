@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 06 2024 09:06:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 06 2024 10:42:39 GMT+0800 (China Standard Time) -->
 
-1. [T1](https://www.zhihu.com/search?q=T1)
+1. [郭艾伦回应让辽篮赠票给球迷](https://www.zhihu.com/search?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E5%9B%9E%E5%BA%94%E8%AE%A9%E8%BE%BD%E7%AF%AE%E8%B5%A0%E7%A5%A8%E7%BB%99%E7%90%83%E8%BF%B7)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
 1. [Faker](https://www.zhihu.com/search?q=Faker)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
@@ -26,6 +26,7 @@
 1. [双十一买什么](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E4%B9%B0%E4%BB%80%E4%B9%88)
 1. [答主评审团](https://www.zhihu.com/search?q=%E7%AD%94%E4%B8%BB%E8%AF%84%E5%AE%A1%E5%9B%A2)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=%E9%82%A3%E4%BA%9B%E7%9C%9F%E7%9A%84%E3%80%8C%E5%A5%BD%E3%80%8D%E7%9A%84%E5%A5%BD%E7%89%A9)
+1. [T1](https://www.zhihu.com/search?q=T1)
 1. [医保药品追溯码亮剑](https://www.zhihu.com/search?q=%E5%8C%BB%E4%BF%9D%E8%8D%AF%E5%93%81%E8%BF%BD%E6%BA%AF%E7%A0%81%E4%BA%AE%E5%89%91)
 1. [T1 3:2 击败 BLG 夺冠](https://www.zhihu.com/search?q=T1%203%3A2%20%E5%87%BB%E8%B4%A5%20BLG%20%E5%A4%BA%E5%86%A0)
 
