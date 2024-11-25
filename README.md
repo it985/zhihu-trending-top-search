@@ -14,16 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 25 2024 13:15:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 25 2024 14:21:51 GMT+0800 (China Standard Time) -->
 
+1. [王曼昱女单冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
+1. [德云社纲丝节](https://www.zhihu.com/search?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%BA%B2%E4%B8%9D%E8%8A%82)
+1. [掘金vs湖人](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E6%B9%96%E4%BA%BA)
+1. [张本智和](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
+1. [王楚钦](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6)
+1. [时代少年团演唱会直播](https://www.zhihu.com/search?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD)
+1. [比亚迪第1000万辆新能源汽车下线](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AC%AC1000%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E7%BA%BF)
+1. [钟睒睒称看不起直播带货的企业家](https://www.zhihu.com/search?q=%E9%92%9F%E7%9D%92%E7%9D%92%E7%A7%B0%E7%9C%8B%E4%B8%8D%E8%B5%B7%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%9A%84%E4%BC%81%E4%B8%9A%E5%AE%B6)
+1. [为什么美国黑人不愿听警察的指令](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E9%BB%91%E4%BA%BA%E4%B8%8D%E6%84%BF%E5%90%AC%E8%AD%A6%E5%AF%9F%E7%9A%84%E6%8C%87%E4%BB%A4)
+1. [国足取消冬训计划](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E5%8F%96%E6%B6%88%E5%86%AC%E8%AE%AD%E8%AE%A1%E5%88%92)
 1. [今日小雪](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA)
 1. [勇士vs快船](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
 1. [乌克兰多地遭导弹袭击](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%9A%E5%9C%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB)
-1. [张本智和](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
-1. [王楚钦](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6)
-1. [比亚迪第1000万辆新能源汽车下线](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AC%AC1000%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E7%BA%BF)
 1. [良品铺子被举报问题不成立](https://www.zhihu.com/search?q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%97%AE%E9%A2%98%E4%B8%8D%E6%88%90%E7%AB%8B)
-1. [钟睒睒称看不起直播带货的企业家](https://www.zhihu.com/search?q=%E9%92%9F%E7%9D%92%E7%9D%92%E7%A7%B0%E7%9C%8B%E4%B8%8D%E8%B5%B7%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%9A%84%E4%BC%81%E4%B8%9A%E5%AE%B6)
 1. [广州将在全市收购90平以下存量房](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%B0%86%E5%9C%A8%E5%85%A8%E5%B8%82%E6%94%B6%E8%B4%AD90%E5%B9%B3%E4%BB%A5%E4%B8%8B%E5%AD%98%E9%87%8F%E6%88%BF)
 1. [深圳取消普通住房和非普通住房标准](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%88%E6%99%AE%E9%80%9A%E4%BD%8F%E6%88%BF%E5%92%8C%E9%9D%9E%E6%99%AE%E9%80%9A%E4%BD%8F%E6%88%BF%E6%A0%87%E5%87%86)
 1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E9%A5%AE%E9%A3%9F%E6%B2%A1%E6%9C%89%E8%A2%AB%E8%A5%BF%E5%8C%96)
