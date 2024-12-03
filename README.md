@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 03 2024 13:15:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 03 2024 14:22:35 GMT+0800 (China Standard Time) -->
 
-1. [国考笔试](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95)
+1. [国乒8:0胜澳大利亚](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%928%3A0%E8%83%9C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A)
+1. [电吉他孤独患者solo挑战](https://www.zhihu.com/search?q=%E7%94%B5%E5%90%89%E4%BB%96%E5%AD%A4%E7%8B%AC%E6%82%A3%E8%80%85solo%E6%8C%91%E6%88%98)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
 1. [申论大作文](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E5%A4%A7%E4%BD%9C%E6%96%87)
 1. [国考答案](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AD%94%E6%A1%88)
@@ -25,6 +26,7 @@
 1. [为何诸葛亮墓始终无人敢盗](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%A2%93%E5%A7%8B%E7%BB%88%E6%97%A0%E4%BA%BA%E6%95%A2%E7%9B%97)
 1. [如何看待女病毒学家用病毒疗法治疗癌症](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A5%B3%E7%97%85%E6%AF%92%E5%AD%A6%E5%AE%B6%E7%94%A8%E7%97%85%E6%AF%92%E7%96%97%E6%B3%95%E6%B2%BB%E7%96%97%E7%99%8C%E7%97%87)
 1. [红米 K80](https://www.zhihu.com/search?q=%E7%BA%A2%E7%B1%B3%20K80)
+1. [国考笔试](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95)
 1. [快手电商宣布「废止退款不退货规则」](https://www.zhihu.com/search?q=%E5%BF%AB%E6%89%8B%E7%94%B5%E5%95%86%E5%AE%A3%E5%B8%83%E3%80%8C%E5%BA%9F%E6%AD%A2%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7%E8%A7%84%E5%88%99%E3%80%8D)
 1. [华为 Mate 70 价格](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%20Mate%2070%20%E4%BB%B7%E6%A0%BC)
 1. [国家医保药品目录新增 91 种药品](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E8%8D%AF%E5%93%81%E7%9B%AE%E5%BD%95%E6%96%B0%E5%A2%9E%2091%20%E7%A7%8D%E8%8D%AF%E5%93%81)
