@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 18 2024 16:19:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 18 2024 17:16:06 GMT+0800 (China Standard Time) -->
 
+1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11%20%E6%9C%88%2070%20%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [石宇奇夺男单冠军](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [古代的状元放到如今是什么水平](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E7%9A%84%E7%8A%B6%E5%85%83%E6%94%BE%E5%88%B0%E5%A6%82%E4%BB%8A%E6%98%AF%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [为什么现在年轻人存不下钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E4%B8%8D%E4%B8%8B%E9%92%B1)
@@ -26,7 +27,6 @@
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%87%AD%E4%BB%80%E4%B9%88%E5%90%8E%E6%9D%A5%E5%B1%85%E4%B8%8A)
 1. [德法英等国外长支持乌克兰加入北约](https://www.zhihu.com/search?q=%E5%BE%B7%E6%B3%95%E8%8B%B1%E7%AD%89%E5%9B%BD%E5%A4%96%E9%95%BF%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6)
 1. [我们如何尽可能让资产保值](https://www.zhihu.com/search?q=%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%B0%BD%E5%8F%AF%E8%83%BD%E8%AE%A9%E8%B5%84%E4%BA%A7%E4%BF%9D%E5%80%BC)
-1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11%20%E6%9C%88%2070%20%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [员工推算同事工资求涨薪被辞](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E6%8E%A8%E7%AE%97%E5%90%8C%E4%BA%8B%E5%B7%A5%E8%B5%84%E6%B1%82%E6%B6%A8%E8%96%AA%E8%A2%AB%E8%BE%9E)
 1. [薪酬保密制度是否受法律保护](https://www.zhihu.com/search?q=%E8%96%AA%E9%85%AC%E4%BF%9D%E5%AF%86%E5%88%B6%E5%BA%A6%E6%98%AF%E5%90%A6%E5%8F%97%E6%B3%95%E5%BE%8B%E4%BF%9D%E6%8A%A4)
 1. [独行侠vs勇士](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E5%8B%87%E5%A3%AB)
