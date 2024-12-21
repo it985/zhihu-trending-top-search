@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 21 2024 13:12:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 21 2024 14:18:29 GMT+0800 (China Standard Time) -->
 
-1. [没文化可以有多可怕](https://www.zhihu.com/search?q=%E6%B2%A1%E6%96%87%E5%8C%96%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95)
+1. [2024你最喜欢的游戏角色是谁](https://www.zhihu.com/search?q=2024%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E6%98%AF%E8%B0%81)
+1. [这里是天津](https://www.zhihu.com/search?q=%E8%BF%99%E9%87%8C%E6%98%AF%E5%A4%A9%E6%B4%A5)
 1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%87%AD%E4%BB%80%E4%B9%88%E5%90%8E%E6%9D%A5%E5%B1%85%E4%B8%8A)
@@ -25,6 +26,7 @@
 1. [播客为什么那么火](https://www.zhihu.com/search?q=%E6%92%AD%E5%AE%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB)
 1. [美国威斯康辛州发生校园枪击案](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A8%81%E6%96%AF%E5%BA%B7%E8%BE%9B%E5%B7%9E%E5%8F%91%E7%94%9F%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88)
 1. [前11月免签入境外国人同比增长123.3%](https://www.zhihu.com/search?q=%E5%89%8D11%E6%9C%88%E5%85%8D%E7%AD%BE%E5%85%A5%E5%A2%83%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF123.3%25)
+1. [没文化可以有多可怕](https://www.zhihu.com/search?q=%E6%B2%A1%E6%96%87%E5%8C%96%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95)
 1. [王思聪要开 100 家牛排店](https://www.zhihu.com/search?q=%E7%8E%8B%E6%80%9D%E8%81%AA%E8%A6%81%E5%BC%80%20100%20%E5%AE%B6%E7%89%9B%E6%8E%92%E5%BA%97)
 1. [古代的状元放到如今是什么水平](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E7%9A%84%E7%8A%B6%E5%85%83%E6%94%BE%E5%88%B0%E5%A6%82%E4%BB%8A%E6%98%AF%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [中国特有的狸花猫有多强大](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%9C%89%E7%9A%84%E7%8B%B8%E8%8A%B1%E7%8C%AB%E6%9C%89%E5%A4%9A%E5%BC%BA%E5%A4%A7)
