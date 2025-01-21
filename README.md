@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 21 2025 21:19:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 21 2025 22:13:17 GMT+0800 (China Standard Time) -->
 
-1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A9%AC%E7%9A%84%E8%85%BF%E6%96%AD%E4%BA%86%E5%BF%85%E9%A1%BB%E6%AD%BB)
-1. [知乎如何赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A6%82%E4%BD%95%E8%B5%9A%E9%92%B1)
+1. [医保局牵头调查集采药品质量风险问题](https://www.zhihu.com/search?q=%E5%8C%BB%E4%BF%9D%E5%B1%80%E7%89%B5%E5%A4%B4%E8%B0%83%E6%9F%A5%E9%9B%86%E9%87%87%E8%8D%AF%E5%93%81%E8%B4%A8%E9%87%8F%E9%A3%8E%E9%99%A9%E9%97%AE%E9%A2%98)
+1. [家用台式净饮机该怎么选](https://www.zhihu.com/search?q=%E5%AE%B6%E7%94%A8%E5%8F%B0%E5%BC%8F%E5%87%80%E9%A5%AE%E6%9C%BA%E8%AF%A5%E6%80%8E%E4%B9%88%E9%80%89)
 1. [为什么说以身殉国就罪减一等](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%BB%A5%E8%BA%AB%E6%AE%89%E5%9B%BD%E5%B0%B1%E7%BD%AA%E5%87%8F%E4%B8%80%E7%AD%89)
 1. [抖音直播话术要点](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E8%AF%9D%E6%9C%AF%E8%A6%81%E7%82%B9)
 1. [普通人自媒体赚钱方式](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%87%AA%E5%AA%92%E4%BD%93%E8%B5%9A%E9%92%B1%E6%96%B9%E5%BC%8F)
@@ -26,6 +26,8 @@
 1. [短剧推广授权获取](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E6%8E%88%E6%9D%83%E8%8E%B7%E5%8F%96)
 1. [短视频搬运变现方式](https://www.zhihu.com/search?q=%E7%9F%AD%E8%A7%86%E9%A2%91%E6%90%AC%E8%BF%90%E5%8F%98%E7%8E%B0%E6%96%B9%E5%BC%8F)
 1. [知乎写东西能否赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%86%99%E4%B8%9C%E8%A5%BF%E8%83%BD%E5%90%A6%E8%B5%9A%E9%92%B1)
+1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A9%AC%E7%9A%84%E8%85%BF%E6%96%AD%E4%BA%86%E5%BF%85%E9%A1%BB%E6%AD%BB)
+1. [知乎如何赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A6%82%E4%BD%95%E8%B5%9A%E9%92%B1)
 1. [知乎回答赚多少问题才能收益](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%9B%9E%E7%AD%94%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%97%AE%E9%A2%98%E6%89%8D%E8%83%BD%E6%94%B6%E7%9B%8A)
 1. [曼联1比3布莱顿](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%941%E6%AF%943%E5%B8%83%E8%8E%B1%E9%A1%BF)
 1. [快船轻取湖人](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E8%BD%BB%E5%8F%96%E6%B9%96%E4%BA%BA)
