@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 23 2025 15:12:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 23 2025 16:18:32 GMT+0800 (China Standard Time) -->
 
-1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A9%AC%E7%9A%84%E8%85%BF%E6%96%AD%E4%BA%86%E5%BF%85%E9%A1%BB%E6%AD%BB)
-1. [知乎如何赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A6%82%E4%BD%95%E8%B5%9A%E9%92%B1)
+1. [男子醉酒身亡家属起诉同桌索赔被驳回](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E9%86%89%E9%85%92%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E8%B5%B7%E8%AF%89%E5%90%8C%E6%A1%8C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3%E5%9B%9E)
+1. [春节答题 PK 分奖金](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E7%AD%94%E9%A2%98%20PK%20%E5%88%86%E5%A5%96%E9%87%91)
 1. [为什么说以身殉国就罪减一等](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%BB%A5%E8%BA%AB%E6%AE%89%E5%9B%BD%E5%B0%B1%E7%BD%AA%E5%87%8F%E4%B8%80%E7%AD%89)
 1. [抖音直播话术要点](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E8%AF%9D%E6%9C%AF%E8%A6%81%E7%82%B9)
 1. [普通人自媒体赚钱方式](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%87%AA%E5%AA%92%E4%BD%93%E8%B5%9A%E9%92%B1%E6%96%B9%E5%BC%8F)
@@ -26,6 +26,8 @@
 1. [短剧推广授权获取](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E6%8E%88%E6%9D%83%E8%8E%B7%E5%8F%96)
 1. [短视频搬运变现方式](https://www.zhihu.com/search?q=%E7%9F%AD%E8%A7%86%E9%A2%91%E6%90%AC%E8%BF%90%E5%8F%98%E7%8E%B0%E6%96%B9%E5%BC%8F)
 1. [知乎写东西能否赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%86%99%E4%B8%9C%E8%A5%BF%E8%83%BD%E5%90%A6%E8%B5%9A%E9%92%B1)
+1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A9%AC%E7%9A%84%E8%85%BF%E6%96%AD%E4%BA%86%E5%BF%85%E9%A1%BB%E6%AD%BB)
+1. [知乎如何赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A6%82%E4%BD%95%E8%B5%9A%E9%92%B1)
 1. [有趣的过年方式](https://www.zhihu.com/search?q=%E6%9C%89%E8%B6%A3%E7%9A%84%E8%BF%87%E5%B9%B4%E6%96%B9%E5%BC%8F)
 1. [宝妈在家赚钱渠道](https://www.zhihu.com/search?q=%E5%AE%9D%E5%A6%88%E5%9C%A8%E5%AE%B6%E8%B5%9A%E9%92%B1%E6%B8%A0%E9%81%93)
 
