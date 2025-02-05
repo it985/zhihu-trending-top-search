@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 05 2025 09:07:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 05 2025 10:42:48 GMT+0800 (China Standard Time) -->
 
-1. [不想上班](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD)
-1. [知乎新年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8)
+1. [2025电影票房破100亿](https://www.zhihu.com/search?q=2025%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B4100%E4%BA%BF)
+1. [为什么封神 2 口碑两极分化](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%81%E7%A5%9E%202%20%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E8%9B%87%E5%B9%B4%E6%B4%BB%E5%8A%A8)
 1. [知乎春节活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%98%A5%E8%8A%82%E6%B4%BB%E5%8A%A8)
 1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=%E8%BF%87%E5%B9%B4%E7%8E%A9%E4%BB%80%E4%B9%88%EF%BC%8C%E5%A5%BD%E8%BF%90%E8%B4%AA%E5%90%83%E8%9B%87)
@@ -26,6 +26,8 @@
 1. [有趣的过年方式](https://www.zhihu.com/search?q=%E6%9C%89%E8%B6%A3%E7%9A%84%E8%BF%87%E5%B9%B4%E6%96%B9%E5%BC%8F)
 1. [有奖答题 PK 分奖金](https://www.zhihu.com/search?q=%E6%9C%89%E5%A5%96%E7%AD%94%E9%A2%98%20PK%20%E5%88%86%E5%A5%96%E9%87%91)
 1. [知识王者 PK 分奖金](https://www.zhihu.com/search?q=%E7%9F%A5%E8%AF%86%E7%8E%8B%E8%80%85%20PK%20%E5%88%86%E5%A5%96%E9%87%91)
+1. [不想上班](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD)
+1. [知乎新年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8)
 
 <!-- END -->
 
