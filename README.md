@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 05 2025 19:11:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 05 2025 20:28:37 GMT+0800 (China Standard Time) -->
 
-1. [不想上班](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD)
-1. [节后上班第一天](https://www.zhihu.com/search?q=%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9)
+1. [拜登签约知名艺人经纪公司](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E7%AD%BE%E7%BA%A6%E7%9F%A5%E5%90%8D%E8%89%BA%E4%BA%BA%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8)
 1. [勇士力克魔术](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E5%8A%9B%E5%85%8B%E9%AD%94%E6%9C%AF)
 1. [春节档票房破60亿](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%A9%AC%E8%B0%A1%E7%BD%AE%E4%B9%8B%E6%AD%BB%E5%9C%B0%E5%B0%B1%E7%9C%9F%E6%AD%BB%E4%BA%86)
@@ -26,9 +25,11 @@
 1. [知乎新年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E8%9B%87%E5%B9%B4%E6%B4%BB%E5%8A%A8)
 1. [知乎春节活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%98%A5%E8%8A%82%E6%B4%BB%E5%8A%A8)
+1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=%E8%BF%87%E5%B9%B4%E7%8E%A9%E4%BB%80%E4%B9%88%EF%BC%8C%E5%A5%BD%E8%BF%90%E8%B4%AA%E5%90%83%E8%9B%87)
+1. [不想上班](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD)
+1. [节后上班第一天](https://www.zhihu.com/search?q=%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9)
 1. [哪吒2 共鸣](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%20%E5%85%B1%E9%B8%A3)
 1. [非遗春节怎么过](https://www.zhihu.com/search?q=%E9%9D%9E%E9%81%97%E6%98%A5%E8%8A%82%E6%80%8E%E4%B9%88%E8%BF%87)
-1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=%E8%BF%87%E5%B9%B4%E7%8E%A9%E4%BB%80%E4%B9%88%EF%BC%8C%E5%A5%BD%E8%BF%90%E8%B4%AA%E5%90%83%E8%9B%87)
 1. [春节答题挑战](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E7%AD%94%E9%A2%98%E6%8C%91%E6%88%98)
 1. [答题分奖金](https://www.zhihu.com/search?q=%E7%AD%94%E9%A2%98%E5%88%86%E5%A5%96%E9%87%91)
 1. [有趣的过年方式](https://www.zhihu.com/search?q=%E6%9C%89%E8%B6%A3%E7%9A%84%E8%BF%87%E5%B9%B4%E6%96%B9%E5%BC%8F)
