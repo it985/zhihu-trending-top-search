@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 17 2025 13:15:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 17 2025 14:20:51 GMT+0800 (China Standard Time) -->
 
-1. [小说推文](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87)
+1. [如何评价颂乐人偶第七话](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%A2%82%E4%B9%90%E4%BA%BA%E5%81%B6%E7%AC%AC%E4%B8%83%E8%AF%9D)
+1. [gen对战hle](https://www.zhihu.com/search?q=gen%E5%AF%B9%E6%88%98hle)
 1. [央行称实施好适度宽松的货币政策](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E7%A7%B0%E5%AE%9E%E6%96%BD%E5%A5%BD%E9%80%82%E5%BA%A6%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96)
 1. [独行侠战胜勇士](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E6%88%98%E8%83%9C%E5%8B%87%E5%A3%AB)
 1. [普通人赚钱路子](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%B5%9A%E9%92%B1%E8%B7%AF%E5%AD%90)
@@ -25,6 +26,7 @@
 1. [线上兼职推荐](https://www.zhihu.com/search?q=%E7%BA%BF%E4%B8%8A%E5%85%BC%E8%81%8C%E6%8E%A8%E8%8D%90)
 1. [知乎写小说赚钱](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%86%99%E5%B0%8F%E8%AF%B4%E8%B5%9A%E9%92%B1)
 1. [写作能力提升](https://www.zhihu.com/search?q=%E5%86%99%E4%BD%9C%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87)
+1. [小说推文](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87)
 1. [小说签约赚钱](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E7%AD%BE%E7%BA%A6%E8%B5%9A%E9%92%B1)
 1. [男演员李威被曝失联](https://www.zhihu.com/search?q=%E7%94%B7%E6%BC%94%E5%91%98%E6%9D%8E%E5%A8%81%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94)
 1. [极氪001车型在埃及上市](https://www.zhihu.com/search?q=%E6%9E%81%E6%B0%AA001%E8%BD%A6%E5%9E%8B%E5%9C%A8%E5%9F%83%E5%8F%8A%E4%B8%8A%E5%B8%82)
