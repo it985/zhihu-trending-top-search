@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 18 2025 14:20:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 18 2025 15:13:34 GMT+0800 (China Standard Time) -->
 
 1. [腾讯文档接入deepseek-r1](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E6%8E%A5%E5%85%A5deepseek-r1)
+1. [男子减肥做20个俯卧撑后「肺炸了」](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%87%8F%E8%82%A5%E5%81%9A20%E4%B8%AA%E4%BF%AF%E5%8D%A7%E6%92%91%E5%90%8E%E3%80%8C%E8%82%BA%E7%82%B8%E4%BA%86%E3%80%8D)
 1. [雨水](https://www.zhihu.com/search?q=%E9%9B%A8%E6%B0%B4)
 1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你最高光的时刻是什么时候](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E9%AB%98%E5%85%89%E7%9A%84%E6%97%B6%E5%88%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99)
