@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 21 2025 15:14:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 21 2025 16:18:34 GMT+0800 (China Standard Time) -->
 
-1. [阿凡达重映](https://www.zhihu.com/search?q=%E9%98%BF%E5%87%A1%E8%BE%BE%E9%87%8D%E6%98%A0)
+1. [今晚油价下调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83)
 1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B2%E7%8A%B6%E8%85%BA%E6%BF%80%E7%B4%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%A8%E7%A2%98%E6%9D%A5%E5%90%88%E6%88%90)
 1. [现货黄金再创新高](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E9%BB%91%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B)
@@ -26,7 +26,7 @@
 1. [金赛纶去世](https://www.zhihu.com/search?q=%E9%87%91%E8%B5%9B%E7%BA%B6%E5%8E%BB%E4%B8%96)
 1. [格力专卖店改名董明珠健康家](https://www.zhihu.com/search?q=%E6%A0%BC%E5%8A%9B%E4%B8%93%E5%8D%96%E5%BA%97%E6%94%B9%E5%90%8D%E8%91%A3%E6%98%8E%E7%8F%A0%E5%81%A5%E5%BA%B7%E5%AE%B6)
 1. [董明珠健康家](https://www.zhihu.com/search?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%81%A5%E5%BA%B7%E5%AE%B6)
-1. [今晚油价下调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83)
+1. [阿凡达重映](https://www.zhihu.com/search?q=%E9%98%BF%E5%87%A1%E8%BE%BE%E9%87%8D%E6%98%A0)
 1. [微信灰度测试接入DeepSeek-R1](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%85%A5DeepSeek-R1)
 1. [成品油价或年内首跌](https://www.zhihu.com/search?q=%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%88%96%E5%B9%B4%E5%86%85%E9%A6%96%E8%B7%8C)
 1. [「哪吒 2」成为全球动画电影票房冠军](https://www.zhihu.com/search?q=%E3%80%8C%E5%93%AA%E5%90%92%202%E3%80%8D%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B)
