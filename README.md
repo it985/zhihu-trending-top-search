@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 27 2025 20:29:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 27 2025 21:22:48 GMT+0800 (China Standard Time) -->
 
-1. [四川一中学辞退清洁工让学生轮流打扫全校](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BE%9E%E9%80%80%E6%B8%85%E6%B4%81%E5%B7%A5%E8%AE%A9%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E6%89%93%E6%89%AB%E5%85%A8%E6%A0%A1)
-1. [微软回应退租数据中心](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%9B%9E%E5%BA%94%E9%80%80%E7%A7%9F%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
+1. [DeepGEMM 有哪些亮点](https://www.zhihu.com/search?q=DeepGEMM%20%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9)
 1. [湖人vs独行侠](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
 1. [勇士大胜黄蜂](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E5%A4%A7%E8%83%9C%E9%BB%84%E8%9C%82)
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E9%BB%91%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B)
@@ -26,6 +25,9 @@
 1. [RTX 5070Ti 显卡国行售价 6299 起](https://www.zhihu.com/search?q=RTX%205070Ti%20%E6%98%BE%E5%8D%A1%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%206299%20%E8%B5%B7)
 1. [奶奶每天玩手机到凌晨近视 2300 度](https://www.zhihu.com/search?q=%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%88%B0%E5%87%8C%E6%99%A8%E8%BF%91%E8%A7%86%202300%20%E5%BA%A6)
 1. [少女花150元文身清洗需76.9万元](https://www.zhihu.com/search?q=%E5%B0%91%E5%A5%B3%E8%8A%B1150%E5%85%83%E6%96%87%E8%BA%AB%E6%B8%85%E6%B4%97%E9%9C%8076.9%E4%B8%87%E5%85%83)
+1. [小行星撞地球概率调整为接近为零](https://www.zhihu.com/search?q=%E5%B0%8F%E8%A1%8C%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E6%A6%82%E7%8E%87%E8%B0%83%E6%95%B4%E4%B8%BA%E6%8E%A5%E8%BF%91%E4%B8%BA%E9%9B%B6)
+1. [四川一中学辞退清洁工让学生轮流打扫全校](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BE%9E%E9%80%80%E6%B8%85%E6%B4%81%E5%B7%A5%E8%AE%A9%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E6%89%93%E6%89%AB%E5%85%A8%E6%A0%A1)
+1. [微软回应退租数据中心](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%9B%9E%E5%BA%94%E9%80%80%E7%A7%9F%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
 1. [四六级成绩](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9)
 1. [独行侠VS湖人](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0VS%E6%B9%96%E4%BA%BA)
 1. [美国多州报告李斯特菌感染病例](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%B7%9E%E6%8A%A5%E5%91%8A%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B)
