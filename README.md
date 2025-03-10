@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 10 2025 16:16:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 10 2025 17:13:53 GMT+0800 (China Standard Time) -->
 
-1. [世界上有多少个和弦](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA%E5%92%8C%E5%BC%A6)
+1. [82年的拉菲到底生产了多少瓶](https://www.zhihu.com/search?q=82%E5%B9%B4%E7%9A%84%E6%8B%89%E8%8F%B2%E5%88%B0%E5%BA%95%E7%94%9F%E4%BA%A7%E4%BA%86%E5%A4%9A%E5%B0%91%E7%93%B6)
+1. [稚晖君发布大模型 GO-1](https://www.zhihu.com/search?q=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%20GO-1)
 1. [男人有胡子和没胡子颜值差距有多大](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%89%E8%83%A1%E5%AD%90%E5%92%8C%E6%B2%A1%E8%83%A1%E5%AD%90%E9%A2%9C%E5%80%BC%E5%B7%AE%E8%B7%9D%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [上海申花vs川崎前锋](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1vs%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B)
 1. [为什么金子是金色](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E5%AD%90%E6%98%AF%E9%87%91%E8%89%B2)
@@ -24,8 +25,9 @@
 1. [给你一千万要求立刻辞职你愿意吗](https://www.zhihu.com/search?q=%E7%BB%99%E4%BD%A0%E4%B8%80%E5%8D%83%E4%B8%87%E8%A6%81%E6%B1%82%E7%AB%8B%E5%88%BB%E8%BE%9E%E8%81%8C%E4%BD%A0%E6%84%BF%E6%84%8F%E5%90%97)
 1. [为何 AI 火之后人们想到的是大量裁员](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%20AI%20%E7%81%AB%E4%B9%8B%E5%90%8E%E4%BA%BA%E4%BB%AC%E6%83%B3%E5%88%B0%E7%9A%84%E6%98%AF%E5%A4%A7%E9%87%8F%E8%A3%81%E5%91%98)
 1. [金融监管总局将研究提高消费贷款额度](https://www.zhihu.com/search?q=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%B0%86%E7%A0%94%E7%A9%B6%E6%8F%90%E9%AB%98%E6%B6%88%E8%B4%B9%E8%B4%B7%E6%AC%BE%E9%A2%9D%E5%BA%A6)
-1. [全球首款通用智能体 Manus 上线](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%80%9A%E7%94%A8%E6%99%BA%E8%83%BD%E4%BD%93%20Manus%20%E4%B8%8A%E7%BA%BF)
 1. [美国在月球实现人类首次导航](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9C%A8%E6%9C%88%E7%90%83%E5%AE%9E%E7%8E%B0%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E5%AF%BC%E8%88%AA)
+1. [世界上有多少个和弦](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA%E5%92%8C%E5%BC%A6)
+1. [全球首款通用智能体 Manus 上线](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%80%9A%E7%94%A8%E6%99%BA%E8%83%BD%E4%BD%93%20Manus%20%E4%B8%8A%E7%BA%BF)
 1. [短剧顶流何健麒被定为劣迹演员](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81%E4%BD%95%E5%81%A5%E9%BA%92%E8%A2%AB%E5%AE%9A%E4%B8%BA%E5%8A%A3%E8%BF%B9%E6%BC%94%E5%91%98)
 1. [美国暂停对乌克兰军事援助](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%9A%82%E5%81%9C%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
