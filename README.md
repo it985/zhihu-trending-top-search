@@ -14,16 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 06 2025 09:17:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 06 2025 18:17:22 GMT+0800 (China Standard Time) -->
 
 1. [巴菲特股东大会](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)
+1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
+1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [知网已搜不到董袭莹论文](https://www.zhihu.com/search?q=%E7%9F%A5%E7%BD%91%E5%B7%B2%E6%90%9C%E4%B8%8D%E5%88%B0%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%AE%BA%E6%96%87)
-1. [OpenAI 将为 ChatGPT 增加购物功能](https://www.zhihu.com/search?q=OpenAI%20%E5%B0%86%E4%B8%BA%20ChatGPT%20%E5%A2%9E%E5%8A%A0%E8%B4%AD%E7%89%A9%E5%8A%9F%E8%83%BD)
+1. [二级保护动物丘鹬过马路一步三摇](https://www.zhihu.com/search?q=%E4%BA%8C%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%E4%B8%98%E9%B9%AC%E8%BF%87%E9%A9%AC%E8%B7%AF%E4%B8%80%E6%AD%A5%E4%B8%89%E6%91%87)
 1. [董袭莹不符合协和4+4招生要求](https://www.zhihu.com/search?q=%E8%91%A3%E8%A2%AD%E8%8E%B9%E4%B8%8D%E7%AC%A6%E5%90%88%E5%8D%8F%E5%92%8C4%2B4%E6%8B%9B%E7%94%9F%E8%A6%81%E6%B1%82)
+1. [OpenAI 将为 ChatGPT 增加购物功能](https://www.zhihu.com/search?q=OpenAI%20%E5%B0%86%E4%B8%BA%20ChatGPT%20%E5%A2%9E%E5%8A%A0%E8%B4%AD%E7%89%A9%E5%8A%9F%E8%83%BD)
 1. [协和4+4](https://www.zhihu.com/search?q=%E5%8D%8F%E5%92%8C4%2B4)
 1. [董某莹1年拿规培证威胁患者安全](https://www.zhihu.com/search?q=%E8%91%A3%E6%9F%90%E8%8E%B91%E5%B9%B4%E6%8B%BF%E8%A7%84%E5%9F%B9%E8%AF%81%E5%A8%81%E8%83%81%E6%82%A3%E8%80%85%E5%AE%89%E5%85%A8)
 
