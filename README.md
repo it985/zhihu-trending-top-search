@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 08 2025 00:20:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 08 2025 04:18:06 GMT+0800 (China Standard Time) -->
 
 1. [海军究竟能有多烧钱](https://www.zhihu.com/search?q=%E6%B5%B7%E5%86%9B%E7%A9%B6%E7%AB%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%A7%E9%92%B1)
 1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
