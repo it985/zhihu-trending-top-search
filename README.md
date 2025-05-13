@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 13 2025 13:16:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 13 2025 19:13:57 GMT+0800 (China Standard Time) -->
 
-1. [国际护士节](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%8A%A4%E5%A3%AB%E8%8A%82)
 1. [勇士不敌森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E4%B8%8D%E6%95%8C%E6%A3%AE%E6%9E%97%E7%8B%BC)
-1. [孟子义演技](https://www.zhihu.com/search?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%BC%94%E6%8A%80)
+1. [金价跳水](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4)
+1. [你吃过的最难忘的饺子是什么馅儿](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%83%E8%BF%87%E7%9A%84%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E9%A5%BA%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E9%A6%85%E5%84%BF)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%83%BD%E5%90%83)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
@@ -26,6 +26,8 @@
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [美国这几年为何衰落的如此之快](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%BF%99%E5%87%A0%E5%B9%B4%E4%B8%BA%E4%BD%95%E8%A1%B0%E8%90%BD%E7%9A%84%E5%A6%82%E6%AD%A4%E4%B9%8B%E5%BF%AB)
 1. [胖东来柴怼怼为何会在玉石这事上撕破脸](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%9F%B4%E6%80%BC%E6%80%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%9C%A8%E7%8E%89%E7%9F%B3%E8%BF%99%E4%BA%8B%E4%B8%8A%E6%92%95%E7%A0%B4%E8%84%B8)
+1. [国际护士节](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%8A%A4%E5%A3%AB%E8%8A%82)
+1. [孟子义演技](https://www.zhihu.com/search?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%BC%94%E6%8A%80)
 
 <!-- END -->
 
