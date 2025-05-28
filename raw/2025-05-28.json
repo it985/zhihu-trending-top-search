@@ -1,6 +1,5 @@
 [
-  { "query": "哪一刻让你终于意识到了这就是命", "display_query": "哪一刻让你终于意识到了这就是命" },
-  { "query": "人为什么要睡觉", "display_query": "人为什么要睡觉" },
+  { "query": "5人骑1辆电动车被行政处罚", "display_query": "5人骑1辆电动车被行政处罚" },
   { "query": "女子在家中被捅伤致死", "display_query": "女子在家中被捅伤致死" },
   { "query": "毕赣狂野时代", "display_query": "毕赣狂野时代" },
   { "query": "折腰预告", "display_query": "折腰预告" },
@@ -8,5 +7,8 @@
   { "query": "618 洗衣机推荐", "display_query": "618 洗衣机推荐" },
   { "query": "618 家电推荐", "display_query": "618 家电推荐" },
   { "query": "618 价格暴降家电", "display_query": "618 价格暴降家电" },
-  { "query": "618 护眼灯选购", "display_query": "618 护眼灯选购" }
+  { "query": "618 护眼灯选购", "display_query": "618 护眼灯选购" },
+  { "query": "618 洗烘套装推荐", "display_query": "618 洗烘套装推荐" },
+  { "query": "哪一刻让你终于意识到了这就是命", "display_query": "哪一刻让你终于意识到了这就是命" },
+  { "query": "人为什么要睡觉", "display_query": "人为什么要睡觉" }
 ]
