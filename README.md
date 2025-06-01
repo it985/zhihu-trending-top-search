@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 01 2025 09:41:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 01 2025 12:32:21 GMT+0800 (China Standard Time) -->
 
 1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
 1. [燃油附加费下调](https://www.zhihu.com/search?q=%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83)
