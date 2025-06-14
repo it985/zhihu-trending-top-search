@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 14 2025 06:15:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 14 2025 12:20:07 GMT+0800 (China Standard Time) -->
 
+1. [四六级](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7)
 1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
