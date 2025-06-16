@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 03:12:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 09:23:17 GMT+0800 (China Standard Time) -->
 
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
-1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
+1. [歌手官宣第五期者来女](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%BA%94%E6%9C%9F%E8%80%85%E6%9D%A5%E5%A5%B3)
+1. [初代款Labubu拍出108万](https://www.zhihu.com/search?q=%E5%88%9D%E4%BB%A3%E6%AC%BELabubu%E6%8B%8D%E5%87%BA108%E4%B8%87)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
@@ -26,6 +26,8 @@
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=%E8%AE%A9%E5%AE%B6%E5%85%85%E6%BB%A1%E8%89%BA%E6%9C%AF%E6%B0%94%E6%81%AF%E7%9A%84%E5%A5%BD%E7%89%A9)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618%20%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%AE%B6%E5%85%B7%E6%8E%A8%E8%8D%90)
 1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E6%87%92%E4%BA%BA%E5%85%A5%E6%89%8B%E7%9A%84%E5%81%9A%E9%A5%AD%E5%A5%BD%E7%89%A9)
+1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 
 <!-- END -->
 
